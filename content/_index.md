@@ -36,6 +36,19 @@ description: "ACM conference on Equity and Access in Algorithms, Mechanisms, and
   "></div>
 </div>
 
+<div>
+<add-to-calendar-button 
+  name="ACM EAAMO'25"
+  description="The fifth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO'25) will be held from November 5–7, 2025 in University of Pittsburgh, Pittsburgh, PA, USA."
+  startDate="2025-11-05"
+  startTime="09:00"
+  endDate="2025-11-07"
+  endTime="18:00"
+  timeZone="EST"
+  location="https://conference.eaamo.org/"
+  options="'Apple','Google','iCal','Outlook.com','Yahoo'"
+></add-to-calendar-button>
+</div>
 
 - - -
 
