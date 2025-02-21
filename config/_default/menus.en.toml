@@ -37,6 +37,11 @@
    weight = 10
 
 [[footer]]
+   name = "Historical Conference Awards"
+   pageRef = "past_awards"
+   weight = 20
+
+[[footer]]
    name = "Policies"
    pageRef = "policies"
-   weight = 20
+   weight = 30
