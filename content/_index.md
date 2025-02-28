@@ -54,7 +54,7 @@ description: "ACM conference on Equity and Access in Algorithms, Mechanisms, and
 
 ## News:
 <!-- - The host institution of ACM EAAMO'25 will be [Responsible Data Science](https://www.datascience.pitt.edu/) at University of Pittsburgh. -->
-- More information about the conference will be available soon.
+- **Call for Participation is now live!** Check out the details and submission guidelines for EAAMO '25 [here](/cfp) and submit your work by April 24, 2025.
 - - -
 
 <!-- <p style="font-size: larger">
