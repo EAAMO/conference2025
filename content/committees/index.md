@@ -6,10 +6,8 @@ showTableOfContents: false
 layout: "simple"
 ---
 
-## General Chairs
-{{< chair_image src="profile_photos/celestine_mendler_dunner.jpg" name="Celestine Mendler-Dünner" affiliation="ELLIS Institute Tübingen / Max Planck Institute for Intelligent Systems" link="https://celestine.ai/" >}}
-
-{{< chair_image src="profile_photos/bryan_wilder.jpg" name="Bryan Wilder" affiliation="Carnegie Mellon University" link="https://bryanwilder.github.io/" >}}
+## General Chair
+{{< chair_image src="profile_photos/michael_hamilton.jpg" name="Michael L. Hamilton" affiliation="University of Pittsburgh" link="https://mhamilton-pitt.github.io/" >}}
 
 ## Program Chairs
 {{< chair_image src="profile_photos/elizabeth_bondi_kelly.jpg" name="Elizabeth Bondi-Kelly" affiliation="University of Michigan" link="https://eecs.engin.umich.edu/people/bondi-kelly-elizabeth/" >}}
@@ -18,9 +16,14 @@ layout: "simple"
 
 {{< chair_image src="profile_photos/andrew_goodman_bacon.png" name="Andrew Goodman-Bacon" affiliation="Federal Reserve Bank of Minneapolis" link="https://www.goodman-bacon.com/" >}}
 
+## Executive Committee
+{{< chair_image src="profile_photos/celestine_mendler_dunner.jpg" name="Celestine Mendler-Dünner" affiliation="ELLIS Institute Tübingen / Max Planck Institute for Intelligent Systems" link="https://celestine.ai/" >}}
+
+{{< chair_image src="profile_photos/bryan_wilder.jpg" name="Bryan Wilder" affiliation="Carnegie Mellon University" link="https://bryanwilder.github.io/" >}}
+
 
 <!-- {{< twitter user="ACMEAAMO" id="1757795805254099256" >}} -->
-
+<!-- 
 ## Executive Committee
 {{< chair_image src="profile_photos/rediet_abebe.jpg" name="Rediet Abebe" affiliation="Harvard Society of Fellows" link="https://www.cs.cornell.edu/~red/" >}}
 
@@ -40,4 +43,4 @@ layout: "simple"
 
 {{< chair_image src="profile_photos/ana_stoica.jpg" name="Ana-Andreea Stoica" affiliation="Max Planck Institute for Intelligent Systems" link="http://www.columbia.edu/~as5001/" >}}
 
-{{< chair_image src="profile_photos/bryan_wilder.jpg" name="Bryan Wilder" affiliation="Carnegie Mellon University" link="https://bryanwilder.github.io/" >}}
+{{< chair_image src="profile_photos/bryan_wilder.jpg" name="Bryan Wilder" affiliation="Carnegie Mellon University" link="https://bryanwilder.github.io/" >}} -->
