@@ -16,7 +16,7 @@ layout: "simple"
 
 {{< chair_image src="profile_photos/andrew_goodman_bacon.png" name="Andrew Goodman-Bacon" affiliation="Federal Reserve Bank of Minneapolis" link="https://www.goodman-bacon.com/" >}}
 
-## Conference Advisory Committee
+## Executive Committee
 {{< chair_image src="profile_photos/celestine_mendler_dunner.jpg" name="Celestine Mendler-Dünner" affiliation="ELLIS Institute Tübingen / Max Planck Institute for Intelligent Systems" link="https://celestine.ai/" >}}
 
 {{< chair_image src="profile_photos/bryan_wilder.jpg" name="Bryan Wilder" affiliation="Carnegie Mellon University" link="https://bryanwilder.github.io/" >}}
@@ -24,7 +24,7 @@ layout: "simple"
 
 <!-- {{< twitter user="ACMEAAMO" id="1757795805254099256" >}} -->
 
-## Executive Committee
+## Advisory Board
 {{< chair_image src="profile_photos/rediet_abebe.jpg" name="Rediet Abebe" affiliation="Harvard Society of Fellows" link="https://www.cs.cornell.edu/~red/" >}}
 
 {{< chair_image src="profile_photos/kira_goldner.jpg" name="Kira Goldner" affiliation="Boston University" link="https://www.kiragoldner.com/" >}}
