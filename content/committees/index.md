@@ -48,6 +48,7 @@ ACM EAAMO is supported by the EAAMO leadership team and governed by the EAAMO Bo
 
 {{< chair_image src="profile_photos/lilyxu.jpg" name="Lily Xu" affiliation="Oxford University" link="https://lily-x.github.io/" >}}
 
+<!-- 
 ### EAAMO Board of Directors
 
 {{< chair_image src="profile_photos/matt_boulos.jpg" name="Matthew Boulos" affiliation="Imbue" link="https://www.linkedin.com/in/mattboulos/" >}}
@@ -60,4 +61,4 @@ ACM EAAMO is supported by the EAAMO leadership team and governed by the EAAMO Bo
 
 {{< chair_image src="profile_photos/araba_sey.jpg" name="Araba Sey" affiliation="University of Washington Information School" link="https://tascha.uw.edu/people/araba-sey/" >}}
 
-{{< chair_image src="profile_photos/bryan_wilder.jpg" name="Bryan Wilder" affiliation="Carnegie Mellon University" link="https://bryanwilder.github.io/" >}}
+{{< chair_image src="profile_photos/bryan_wilder.jpg" name="Bryan Wilder" affiliation="Carnegie Mellon University" link="https://bryanwilder.github.io/" >}} -->
