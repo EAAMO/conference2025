@@ -22,6 +22,16 @@ The event will highlight work along the research-to-practice pipeline to improve
 * Submission Notification: July 18, 2025
 * Event Dates: November 5 - 7, 2025
 
+#### Reviewing
+We ask each submission to nominate one author to serve as a reviewer for EAAMO'25, to help the review process. Reviewers typically have some (but not necessarily all) of the following qualifications:
+ - Hold a Ph.D. in a relevant field or pursuing a graduate degree or hold relative work experience
+ - Published at least 2 papers as first author in a relevant conference or journal
+ - Served as a reviewer at any related conference or journal
+ - Be an author on at least 3 peer-reviewed papers (this can include non-archival venues like workshops) on relevant topics
+ - Be active in EAAMO working groups
+
+Please feel free to contact the chairs ([pc25@eaamo.org](mailto:pc25@eaamo.org)) for an exception if you believe that your author team does not have someone qualified to be a reviewer. Papers who have authors who are otherwise helping with organizing EAAMO (area chair, already reviewing, organizing in some other capacity) are exempt from this requirement.
+
 ### Areas of Interest
 We invite submissions on topics, methodologies, and approaches including, but not limited to:
 * ethical, economic, legal, philosophical, and societal considerations of algorithmically-driven interventions
