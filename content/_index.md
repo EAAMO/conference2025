@@ -65,6 +65,6 @@ description: "ACM conference on Equity and Access in Algorithms, Mechanisms, and
 
 ## About ACM EAAMO Conference
 
- The conference aims to highlight work where techniques from algorithms, optimization, and mechanism design, along with insights from the social sciences and humanistic studies, can help improve equity and access to opportunity for historically disadvantaged and underserved communities. The conference will provide an international forum for presenting research papers, problem pitches, survey and position papers, new datasets, and software demonstrations towards the goal of bridging research and practice.
+The conference aims to highlight work that advances our understanding of the societal embedding of technology and how techniques from algorithms, optimization, and mechanism design, along with insights from the social sciences and humanistic studies, can help improve equity and access to opportunity for underserved communities. The conference will provide an inter-disciplinary forum for presenting research papers, problem pitches, survey and position papers, new datasets, and software demonstrations towards the goal of bridging research and practice.
 
  - - -
