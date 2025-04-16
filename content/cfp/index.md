@@ -22,6 +22,9 @@ The event will highlight work along the research-to-practice pipeline to improve
 * Submission Notification: July 18, 2025
 * Event Dates: November 5 - 7, 2025
 
+#### Important news:
+Also, we’re officially supporting hybrid presentations for anyone with difficulty traveling.
+
 #### Reviewing
 We ask each submission to nominate one author to serve as a reviewer for EAAMO'25, to help the review process. Reviewers typically have some (but not necessarily all) of the following qualifications:
  - Hold a Ph.D. in a relevant field or pursuing a graduate degree or hold relative work experience
