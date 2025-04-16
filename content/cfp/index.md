@@ -16,8 +16,8 @@ The fifth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Opt
 The event will highlight work along the research-to-practice pipeline to improve access to opportunity for historically underserved and disadvantaged communities and mitigate harms concerning inequitable and unsafe outcomes. In particular, we seek contributions from different fields that offer insights into the intersectional design and impacts of algorithms, optimization, and mechanism design, including those with a grounding in the social sciences and humanistic studies. Submissions can include research, surveys, position papers, and problem- and practice-driven submissions by academics and practitioners from different disciplines or sectors.
 
 ### Important Dates
-* Abstract Submission Deadline: April 17, 2025 (AoE)
-* Paper Submission Deadline: April 24, 2025 (AoE)
+* Abstract Submission Deadline: April 24, 2025 (AoE)
+* Paper Submission Deadline: May 01, 2025 (AoE)
 * Paper Submission Page: [OpenReview](https://openreview.net/group?id=ACM.org/EAAMO/2025/Conference)
 * Submission Notification: July 18, 2025
 * Event Dates: November 5 - 7, 2025
