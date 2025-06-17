@@ -14,11 +14,13 @@
    name = "Call for Participation"
    pageRef = "cfp"
    weight = 10
+   identifier = 'cfp'
 
 [[main]]
    name = "Committees"
    pageRef = "committees"
    weight = 20
+   identifier = 'committees'
 
 [[main]]
   identifier = "search"
