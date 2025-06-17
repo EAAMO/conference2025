@@ -33,10 +33,6 @@ ACM SIGecom and SIGAI
 - Autonomous University of San Luis Potosí (UASLP)
 - San Luis Potosí Institute of Scientific Research and Technology (IPICYT)
 
-<p align="center">
-    <img src="imgs/PXL_20241031_232232729~2.jpg" alt="ACM EAAMO '24 Sponsors" width="600"/>
-</p>
-
 Thanks to their collective support, ACM EAAMO ‘24 was able to uphold its commitment to equitable participation and expand access for underrepresented communities.
 
 ### Conference Highlights
