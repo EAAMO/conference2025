@@ -10,7 +10,8 @@ We are pleased to invite applications for volunteer **leadership positions** sup
 
 Location: University of Pittsburgh, Pittsburgh, PA, USA \
 Conference Dates: November 5-7, 2025 \
-Form: [Link](https://docs.google.com/forms/d/e/1FAIpQLSchaMEcV_Aq0uUcDECow-6tKip0vRf3hmgjxQyDnKeoIyScjA/viewform)
+Form: [Link](https://docs.google.com/forms/d/e/1FAIpQLSchaMEcV_Aq0uUcDECow-6tKip0vRf3hmgjxQyDnKeoIyScjA/viewform) \
+(We are receiving responses by July 5, 2025)
 
 Why Volunteer?
 - Complimentary registration (in-person or virtual depending on the funds available).
