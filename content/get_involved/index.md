@@ -8,8 +8,8 @@ layout: "simple"
 
 We are pleased to invite applications for volunteer **leadership positions** supporting the organization of the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (ACM EAAMO '25). This is an exciting opportunity to contribute to a vibrant and interdisciplinary global community committed to advancing equity through research and practice.
 
-Location: University of Pittsburgh, Pittsburgh, PA, USA
-Conference Dates: November 5-7, 2025
+Location: University of Pittsburgh, Pittsburgh, PA, USA \
+Conference Dates: November 5-7, 2025 \
 Form: [Link](https://docs.google.com/forms/d/e/1FAIpQLSchaMEcV_Aq0uUcDECow-6tKip0vRf3hmgjxQyDnKeoIyScjA/viewform)
 
 Why Volunteer?
