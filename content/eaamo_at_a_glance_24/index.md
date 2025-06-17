@@ -44,11 +44,7 @@ The conference featured a dynamic and well-rounded program. Two distinguished ke
     <img src="imgs/PXL_20241030_194822060.jpg" alt="Irene Lo Keynote Presentation" width="600"/>
 </p>
 
-ACM EAAMO ‘24 also included a **[Doctoral Consortium](https://conference2024.eaamo.org/cfp/doctoral-consortium/)**, which provided an essential space for emerging scholars to present their work, receive feedback, and connect with mentors and peers. In addition, the conference hosted a **[Panel Discussion](https://conference2024.eaamo.org/jpal/)**, organized in partnership with the Abdul Latif Jameel Poverty Action Lab (JPAL), bringing together academics and policymakers to bridge the gap between research and implementation. .
-
-<p align="center">
-    <img src="imgs/DSC_0121.JPG" alt="Panel Discussion" width="600"/>
-</p>
+ACM EAAMO ‘24 also included a **[Doctoral Consortium](https://conference2024.eaamo.org/cfp/doctoral-consortium/)**, which provided an essential space for emerging scholars to present their work, receive feedback, and connect with mentors and peers. In addition, the conference hosted a **[Panel Discussion](https://conference2024.eaamo.org/jpal/)**, organized in partnership with the Abdul Latif Jameel Poverty Action Lab (JPAL), bringing together academics and policymakers to bridge the gap between research and implementation.
 
 Another notable highlight is the **[EAAMO Bridges](https://bridges.eaamo.org/)** session that focused on presenting working group of academics and practitioners that discusses strategies to design algorithmic systems and allocation methods that center the lived experiences and interests of marginalized groups
 
@@ -64,10 +60,6 @@ We are especially proud to highlight the [**Summer of Science Program**](https:/
 ### Program Participation
 
 ACM EAAMO '24 program attracted 113 research submissions. Following a rigorous peer-review process, 26 papers were accepted and presented during the conference. The program also featured 16 poster presentations, including seven by Indigenous students from the Peruvian Summer of Science program, further showcasing the conference's international and inclusive spirit. From the accepted papers, 13 were accepted in the fourth volume of the archival track of the conference: [the Proceedings of EAAMO ‘24: Equity and Access in Algorithms, Mechanisms, and Optimization](https://dl.acm.org/doi/proceedings/10.1145/3689904) published by the ACM.
-
-<p align="center">
-    <img src="imgs/DSC_0031.JPG" alt="EAAMO Poster session" width="600"/>
-</p>
 
 Each of the three days of the conference featured either keynote talks or panel discussions alongside thematically related sessions. Our keynote talks addressed key themes for the conference: mechanisms, optimization, and policy. The themed  multi-disciplinary sessions for contributed talks represented a wide range of topics and application domains of interest to the conference goals, the combination of novel and diverse methodologies, as well as the strong connections of many papers to policy design: Participation, Allocation under constraints, Government Regulation & Audits, Quantitative social science and conceptual frameworks, Service Delivery & Incentives, Algorithms for Allocation, Computational Social Choice, Algorithmic Fairness and Documentation, Policy & Practice, Human Factors, and Allocation in Social Services.
 
