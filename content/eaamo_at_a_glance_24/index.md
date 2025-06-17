@@ -107,7 +107,3 @@ Their projects focused on local issues such as environmental conservation, commu
 We extend our deepest appreciation to all those who made ACM EAAMO ‘24 possible. This includes the authors and presenters whose work shaped the intellectual content of the conference, the reviewers and area chairs who ensured the quality of the submissions, the program and executive committees for their guidance, and the general chair for overseeing the event’s inclusive execution.
 
 We look forward to welcoming you to ACM EAAMO ‘25 and to continuing our shared mission of advancing equity and access in algorithms, mechanisms, and optimization.
-
-<p align="center">
-    <img src="imgs/EAAMO 2024 T Shirt.jpg" alt="TEAM EAAMO TE AMO" width="400"/>
-</p>
