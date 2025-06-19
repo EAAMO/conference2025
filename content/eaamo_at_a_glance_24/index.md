@@ -10,7 +10,7 @@ layout: "simple"
 
 The fourth Association for Computing Machinery (ACM) conference on Equity and Access in Algorithms, Mechanisms, and Optimization ([ACM EAAMO ‘24](https://conference2024.eaamo.org/)) took place from October 29 to October 31, 2024, at the Autonomous University of San Luis Potosí (UASLP) in San Luis Potosí, Mexico. This year’s conference brought together a global community of scholars, practitioners, and students to explore how computational tools, economic theories, and mechanism design can improve access to opportunity for historically underserved and disadvantaged communities. The conference emphasized interdisciplinary contributions rooted in the social sciences and humanistic studies, reinforcing its commitment to inclusive and equitable research practices.
 
-ACM EAAMO ‘24 drew participants from 19 countries, showcasing the event’s growing international reach. The largest groups comed from the United States (80 participants), Mexico (79 participants), and Peru (9 participants). In addition, researchers from Europe, Africa, and Asia joined the conference. The majority of attendees (151) traveled to San Luis Potosí for the in-person event, while 52 participated virtually.
+ACM EAAMO ‘24 drew participants from 19 countries, showcasing the event’s growing international reach. The largest groups comed from the United States (80 participants), Mexico (79 participants), and Peru (9 participants). In addition, researchers from Europe, Africa, and Asia joined the conference. This is the first iteration of the conference taking place outside of the US, with a majority of participants traveling in-person to San Luis Potosí, Mexico
 
 <p align="center">
     <img src="imgs/Picture1.png" alt="EAAMO Participants" width="400"/>
@@ -18,8 +18,7 @@ ACM EAAMO ‘24 drew participants from 19 countries, showcasing the event’s gr
 
 **Sponsors**
 
-The success of ACM EAAMO ‘24 was made possible by the generous support of many sponsoring organizations. We are especially grateful to:
-ACM SIGecom and SIGAI
+The success of ACM EAAMO ‘24 was made possible by the generous support of many sponsoring organizations. We are especially grateful to the ACM Special Interest Groups on Artificial Intelligence and on Economics and Computation for their continued support. We are grateful to all of our sponsors and supporting organizations:
 - Consejo Potosino de Ciencia y Tecnología (COPOCYT)
 - Harvard David Rockefeller Center for Latin American Studies (DRCLAS)
 - University Center for International Studies (UCIS) & Responsible Data Science (RDS), University of Pittsburgh
@@ -36,7 +35,7 @@ ACM SIGecom and SIGAI
 Thanks to their collective support, ACM EAAMO ‘24 was able to uphold its commitment to equitable participation and expand access for underrepresented communities.
 
 ### Conference Highlights
-The conference featured a dynamic and well-rounded program. Two distinguished keynote speakers provided insightful addresses:
+The conference featured invited speakers and a series of diverse contributed sessions. In particular, we hosted two keynote speakers:
 - [Alessandra Fogli](https://sites.google.com/site/alessandrafoglisite/), Monetary Advisor and Assistant Director at the Federal Reserve Bank of Minneapolis, delivered a talk at the intersection of economics and social impact.
 - [Irene Lo](https://sites.google.com/view/irene-lo), Assistant Professor at Stanford University, discussed the implications of algorithmic design and fairness in policy-making contexts.
 
@@ -46,7 +45,7 @@ The conference featured a dynamic and well-rounded program. Two distinguished ke
 
 ACM EAAMO ‘24 also included a **[Doctoral Consortium](https://conference2024.eaamo.org/cfp/doctoral-consortium/)**, which provided an essential space for emerging scholars to present their work, receive feedback, and connect with mentors and peers. In addition, the conference hosted a **[Panel Discussion](https://conference2024.eaamo.org/jpal/)**, organized in partnership with the Abdul Latif Jameel Poverty Action Lab (JPAL), bringing together academics and policymakers to bridge the gap between research and implementation.
 
-Another notable highlight is the **[EAAMO Bridges](https://bridges.eaamo.org/)** session that focused on presenting working group of academics and practitioners that discusses strategies to design algorithmic systems and allocation methods that center the lived experiences and interests of marginalized groups
+Another notable highlight is the **[EAAMO Bridges](https://bridges.eaamo.org/)** session that focused on presenting working group of academics and practitioners that discusses strategies to design algorithmic systems and allocation methods that center the lived experiences and interests of marginalized groups.
 
 <p align="center">
     <img src="imgs/PXL_20241030_152059286.MP.jpg" alt="EAAMO Bridges - Decolonisation of STEM Curriculum" width="600"/>
@@ -98,4 +97,4 @@ Their projects focused on local issues such as environmental conservation, commu
 
 We extend our deepest appreciation to all those who made ACM EAAMO ‘24 possible. This includes the authors and presenters whose work shaped the intellectual content of the conference, the reviewers and area chairs who ensured the quality of the submissions, the program and executive committees for their guidance, and the general chair for overseeing the event’s inclusive execution.
 
-We look forward to welcoming you to ACM EAAMO ‘25 and to continuing our shared mission of advancing equity and access in algorithms, mechanisms, and optimization.
+We look forward to welcoming you to [ACM EAAMO ‘25](https://conference2025.eaamo.org/) and to continuing our shared mission of advancing equity and access in algorithms, mechanisms, and optimization.
