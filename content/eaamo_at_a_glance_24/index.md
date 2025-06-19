@@ -1,5 +1,5 @@
 ---
-title: "ACM EAAMO '24 at a glance"
+title: "ACM EAAMO '24 at a Glance"
 date: 2025-06-17
 draft: false
 showTableOfContents: true
