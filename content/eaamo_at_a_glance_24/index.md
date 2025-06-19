@@ -6,6 +6,15 @@ showTableOfContents: true
 layout: "simple"
 ---
 
+<p align="center">
+    <a href="https://conference2023.eaamo.org/eaamo_23_at_a_glance/" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/EAAMO%20'23%20at%20a%20Glance-blue?logo=internet-explorer&logoColor=white" alt="EAAMO '23 at a Glance" />
+    </a>
+    <a href="https://conference2022.eaamo.org/eaamo_22_at_a_glance/" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/EAAMO%20'22%20at%20a%20Glance-orange?logo=internet-explorer&logoColor=white" alt="EAAMO '22 at a Glance" />
+    </a>
+</p>
+
 ### General Overview
 
 The fourth Association for Computing Machinery (ACM) conference on Equity and Access in Algorithms, Mechanisms, and Optimization ([ACM EAAMO ‘24](https://conference2024.eaamo.org/)) took place from October 29 to October 31, 2024, at the Autonomous University of San Luis Potosí (UASLP) in San Luis Potosí, Mexico. This year’s conference brought together a global community of scholars, practitioners, and students to explore how computational tools, economic theories, and mechanism design can improve access to opportunity for historically underserved and disadvantaged communities. The conference emphasized interdisciplinary contributions rooted in the social sciences and humanistic studies, reinforcing its commitment to inclusive and equitable research practices.
