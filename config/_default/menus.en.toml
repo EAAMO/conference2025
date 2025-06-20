@@ -17,6 +17,20 @@
    identifier = 'cfp'
 
 [[main]]
+   name = "Call for Posters"
+   pageRef = "call_for_posters"
+   weight = 11
+   identifier = 'cfposters'
+   parent = 'cfp'
+
+[[main]]
+   name = "Call for Doctoral Consortium Participation"
+   pageRef = "call_for_doctoral_consortium"
+   weight = 12
+   identifier = 'cfdc'
+   parent = 'cfp'
+
+[[main]]
    name = "Committees"
    pageRef = "committees"
    weight = 20
@@ -44,11 +58,21 @@
    weight = 10
 
 [[footer]]
+   name = "EAAMO at a Glance"
+   pageRef = "eaamo_at_a_glance_24"
+   weight = 20
+
+[[footer]]
    name = "Historical Conference Awards"
    pageRef = "past_awards"
-   weight = 20
+   weight = 30
+
+[[footer]]
+   name = "Get Involved"
+   pageRef = "get_involved"
+   weight = 40
 
 [[footer]]
    name = "Policies"
    pageRef = "policies"
-   weight = 30
+   weight = 50
