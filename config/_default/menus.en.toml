@@ -36,6 +36,11 @@
    weight = 20
    identifier = 'committees'
 
+#[[main]]
+#   name = "Become a sponsor"
+#   pageRef = "become_a_sponsor"
+#   weight = 30
+
 [[main]]
   identifier = "search"
   weight = 99
@@ -58,13 +63,13 @@
    weight = 10
 
 [[footer]]
-   name = "EAAMO at a Glance"
-   pageRef = "eaamo_at_a_glance_24"
+   name = "Historical Conference Awards"
+   pageRef = "past_awards"
    weight = 20
 
 [[footer]]
-   name = "Historical Conference Awards"
-   pageRef = "past_awards"
+   name = "EAAMO at a Glance"
+   pageRef = "eaamo_at_a_glance_24"
    weight = 30
 
 [[footer]]
@@ -72,7 +77,12 @@
    pageRef = "get_involved"
    weight = 40
 
+#[[footer]]
+#   name = "Become a sponsor"
+#   pageRef = "become_a_sponsor"
+#   weight = 50
+
 [[footer]]
    name = "Policies"
    pageRef = "policies"
-   weight = 50
+   weight = 60
