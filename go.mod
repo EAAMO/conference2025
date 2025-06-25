@@ -1,4 +1,4 @@
-module github.com/EAAMO/conference24
+module github.com/EAAMO/conference25
 
 go 1.21
 
