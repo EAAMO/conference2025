@@ -36,11 +36,6 @@
    weight = 20
    identifier = 'committees'
 
-#[[main]]
-#   name = "Become a sponsor"
-#   pageRef = "become_a_sponsor"
-#   weight = 30
-
 [[main]]
   identifier = "search"
   weight = 99
@@ -76,11 +71,6 @@
    name = "Get Involved"
    pageRef = "get_involved"
    weight = 40
-
-#[[footer]]
-#   name = "Become a sponsor"
-#   pageRef = "become_a_sponsor"
-#   weight = 50
 
 [[footer]]
    name = "Policies"
