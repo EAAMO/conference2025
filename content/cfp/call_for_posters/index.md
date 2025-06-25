@@ -48,5 +48,5 @@ We invite submissions on topics, methodologies, and approaches including, but no
 Application areas of interest include civic participation, data economies, discrimination and bias, digital and economic inequalities, economic development, education, environment and climate, food security, healthcare, housing, infrastructure, labor markets, law and policy, low- and under-resourced computing, social and economic mobility, privacy, public service provision, recommender systems, social work, sustainable development, and transportation. Our broad list of topics illustrates how various perspectives and disciplinary approaches can triangulate progress on focus areas of shared interest.
 
 ## Chairs:
-- [Paula Rodriguez-Diaz](https://paularodrid.com/) (Harvard University)
+- [Paula Rodriguez-Diaz](https://paularodrid.wordpress.com/) (Harvard University)
 - [Santiago Cortes-Gomez](https://www.linkedin.com/in/santiago-cortes-839931155/) (Carnegie Mellon University)
