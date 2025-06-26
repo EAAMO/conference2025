@@ -38,10 +38,40 @@ We will provide opportunities for our sponsors, exhibitors, and partners to be i
 
 ### Past Sponsors
 
-- **2024**, San Luis Potosi, Mexico: ACM SIGAI and SIGecom, Harvard David Rockefeller Center for Latin American Studies (DRCLAS), Harvard SEAS Office for Diversity, Inclusion, and Belonging, University Center for International Studies (UCIS) & Responsible Data Science (RDS) at the University of Pittsburgh, Columbia University, Artificial Intelligence Journal, Santander Universia, Economachina, Consejo Potosino de Ciencia y Tecnología (COPOCYT), San Luis Potosí Municipal and State Government, Autonomous University of San Luis Potosí (UASLP), San Luis Potosí Institute of Scientific Research and Technology (IPICYT), Red Nacional de Consejos y Organismos Estatales de Ciencia y Tecnología (REDNACEYT)
-- **2023**, Boston University, USA: ACM SIGAI & SIGecom, Boston University, Schmidt Futures, Artificial Intelligence Journal, Public Interest Technology University Network (PIT-UN), US Embassy in Mexico, Gobierno de Mexico
-- **2022**, George Mason University, USA: ACM SIGAI & SIGecom, George Mason University, Sloan Foundation, MacArthur Foundation, Public Interest Technology University Network (PIT-UN), Gobierno de Mexico
-- **2021**, virtual: ACM SIGAI & SIGecom, Sloan Foundation, MacArthur Foundation, Cell Patterns
+- **2024**, San Luis Potosi, Mexico: 
+    - ACM SIGAI and SIGecom, 
+    - Harvard David Rockefeller Center for Latin American Studies (DRCLAS), 
+    - Harvard SEAS Office for Diversity, Inclusion, and Belonging, University Center for International Studies (UCIS)
+    - Responsible Data Science (RDS) at the University of Pittsburgh, 
+    - Columbia University, 
+    - Artificial Intelligence Journal, 
+    - Santander Universia, 
+    - Economachina, 
+    - Consejo Potosino de Ciencia y Tecnología (COPOCYT), 
+    - San Luis Potosí Municipal and State Government, 
+    - Autonomous University of San Luis Potosí (UASLP), 
+    - San Luis Potosí Institute of Scientific Research and Technology (IPICYT), and
+    - Red Nacional de Consejos y Organismos Estatales de Ciencia y Tecnología (REDNACEYT)
+- **2023**, Boston University, USA: 
+    - ACM SIGAI & SIGecom, 
+    - Boston University, 
+    - Schmidt Futures, 
+    - Artificial Intelligence Journal, 
+    - Public Interest Technology University Network (PIT-UN), 
+    - US Embassy in Mexico, and 
+    - Gobierno de Mexico
+- **2022**, George Mason University, USA: 
+    - ACM SIGAI & SIGecom, 
+    - George Mason University, 
+    - Sloan Foundation, 
+    - MacArthur Foundation, 
+    - Public Interest Technology University Network (PIT-UN), and 
+    - Gobierno de Mexico
+- **2021**, virtual: 
+    - ACM SIGAI & SIGecom, 
+    - Sloan Foundation, 
+    - MacArthur Foundation, 
+    - Cell Patterns
 
 We look forward to your support to make ACM EAAMO'25 a great success! Contact us at the address below and check out our sponsorship policy at [this link](https://conference.eaamo.org/policies/#sponsorship-policy).
 
