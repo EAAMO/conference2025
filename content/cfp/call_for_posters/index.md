@@ -28,7 +28,7 @@ We especially encourage **resubmissions of papers that were not accepted through
 
 **Application**: [Submission link](https://docs.google.com/forms/d/e/1FAIpQLScQFE0bglbUAT2STMZ8iVe19VLH8N6GLYIKZ_hAaKnBjru63g/viewform?usp=dialog) \
 **Deadline**: <span style="color: red; font-weight: bold;">July 25, 2025</span> \
-**Author notification**: <span style="color: red; font-weight: bold;">2025 August 10, 2025</span>
+**Author notification**: <span style="color: red; font-weight: bold;">August 10, 2025</span>
 
 ## Areas of Interest
 

@@ -53,12 +53,16 @@ description: "ACM conference on Equity and Access in Algorithms, Mechanisms, and
 - - -
 
 ## News:
-<!-- - The host institution of ACM EAAMO'25 will be [Responsible Data Science](https://www.datascience.pitt.edu/) at University of Pittsburgh. -->
-- We’re pleased to announce that the abstract and full paper submission deadlines have each been extended by one week to give authors more time to prepare their work. Please visit the [Call for Papers](/cfp) page for full details and submission guidelines.
-- The paper submission page is now live—please visit the [Call for Papers](/cfp) page for full details and submission guidelines.
+- Now Open: [Call for Posters](cfp/call_for_posters/) for ACM EAAMO '25 - **Submit by July 25**!
+- Apply Now: [Doctoral Consortium](cfp/call_for_doctoral_consortium/) at ACM EAAMO '25 - Connect, Present, and Learn with Peers and Mentors in Equity and Algorithmic Research. **Deadline July 25, 2025**.
 - Download our [one-pager](EAAMO'25_Conference_Flyer.pdf) to quickly learn about the conference and help spread the word!
-- **Call for Participation is now live!** Check out the details and submission guidelines for EAAMO '25 [here](/cfp) and submit your work by April 24, 2025.
+
 - - -
+
+<!-- - The host institution of ACM EAAMO'25 will be [Responsible Data Science](https://www.datascience.pitt.edu/) at University of Pittsburgh. -->
+<!-- - We’re pleased to announce that the abstract and full paper submission deadlines have each been extended by one week to give authors more time to prepare their work. Please visit the [Call for Papers](/cfp) page for full details and submission guidelines.
+- The paper submission page is now live—please visit the [Call for Papers](/cfp) page for full details and submission guidelines. -->
+<!-- - **Call for Participation is now live!** Check out the details and submission guidelines for EAAMO '25 [here](/cfp) and submit your work by April 24, 2025. -->
 
 <!-- <p style="font-size: larger">
     We invite researchers and practitioners to submit their papers by <b>April 17, 2025 (AoE)</b>.
