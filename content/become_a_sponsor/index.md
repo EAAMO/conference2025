@@ -38,6 +38,13 @@ We will provide opportunities for our sponsors, exhibitors, and partners to be i
 
 ### Past Sponsors
 
+<p align="center">
+    <img src="imgs/Sponsors%20Collage.png" alt="Past Sponsors Banner" width="600">
+</p>
+
+<details>
+<summary>See a list of our past sponsors</summary>
+
 - **2024**, San Luis Potosi, Mexico: 
     - ACM SIGAI and SIGecom, 
     - Harvard David Rockefeller Center for Latin American Studies (DRCLAS), 
@@ -72,6 +79,8 @@ We will provide opportunities for our sponsors, exhibitors, and partners to be i
     - Sloan Foundation, 
     - MacArthur Foundation, 
     - Cell Patterns
+
+</details>
 
 We look forward to your support to make ACM EAAMO'25 a great success! Contact us at the address below and check out our sponsorship policy at [this link](https://conference.eaamo.org/policies/#sponsorship-policy).
 
