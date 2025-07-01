@@ -11,6 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+   name = "Venue"
+   pageRef = "venue"
+   weight = 9
+   identifier = 'venue'
+
+[[main]]
    name = "Call for Participation"
    pageRef = "cfp"
    weight = 10
