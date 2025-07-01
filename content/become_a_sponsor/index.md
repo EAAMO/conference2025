@@ -3,10 +3,9 @@ title: "Become a sponsor"
 date: 2025-06-17
 draft: false
 showTableOfContents: true
-layout: "simple"
 ---
 
-### What is EAAMO?
+## What is EAAMO?
 
 We are a community of over 3000 people coming from 130+ institutions in 50 countries, that bring together a range of expertise to tackle problems in marginalized groups around the world. The ACM EAAMO Conference highlights research at the intersection of algorithms, optimization, and mechanism design, along with insights from the social sciences and humanistic studies, with the purpose of improving equity and access to opportunity for underserved communities.
 
@@ -24,7 +23,7 @@ We are an international and interdisciplinary community, with academic experts, 
 
 The work highlighted in the ACM EAAMO conference series is selected through a highly rigorous peer review process and published in the ACM Digital Library, which is a top-tier publication venue in the computational sciences. As such, the work presented is of high quality and has concrete impact on technology development and societal considerations. Our invited speakers are domain experts from various geographies and disciplines. We offer support for students and civic organizers to participate, with a major contingent in Latin America, Africa, and Europe. As such, we are unique in fostering a highly diverse participation and support programs ranging from cutting-edge academic contributions to [social hackathons](https://conference2024.eaamo.org/social_hackathon/), [mentoring programs in Indigenous communities of Mexico](https://www.eaamo.org/projects/rednacecyt-2024-summer-of-science-program), and [year-round working groups](https://bridges.eaamo.org/). Check-out highlights from our 2024 conference [here](https://conference.eaamo.org/eaamo_at_a_glance_24/).
 
-### Why Become a Sponsor of ACM EAAMO'25:
+## Why Become a Sponsor of ACM EAAMO'25:
 
 - Access top-tier research in AI, Economics, Operations Research, Law, Sociology, and others
 - Connect with civic and non-profit organizations and government partners who develop programs for underserved groups
@@ -36,7 +35,7 @@ The work highlighted in the ACM EAAMO conference series is selected through a hi
 
 We will provide opportunities for our sponsors, exhibitors, and partners to be involved in conference activities and engage directly with our delegates. We are at your disposal to help you build a partnership that will best fit your needs.
 
-### Past Sponsors
+## Past Sponsors
 
 <p align="center">
     <img src="imgs/Sponsors%20Collage.png" alt="Past Sponsors Banner" width="600">
@@ -79,5 +78,5 @@ We will provide opportunities for our sponsors, exhibitors, and partners to be i
 
 We look forward to your support to make ACM EAAMO'25 a great success! Contact us at the address below and check out our sponsorship policy at [this link](https://conference.eaamo.org/policies/#sponsorship-policy).
 
-### Contact
+## Contact
 Reach us out at development@eaamo.org

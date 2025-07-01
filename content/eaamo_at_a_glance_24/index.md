@@ -15,7 +15,7 @@ layout: "simple"
     </a>
 </p>
 
-### General Overview
+## General Overview
 
 The fourth Association for Computing Machinery (ACM) conference on Equity and Access in Algorithms, Mechanisms, and Optimization ([ACM EAAMO ‘24](https://conference2024.eaamo.org/)) took place from October 29 to October 31, 2024, at the Autonomous University of San Luis Potosí (UASLP) in San Luis Potosí, Mexico. This year’s conference brought together a global community of scholars, practitioners, and students to explore how computational tools, economic theories, and mechanism design can improve access to opportunity for historically underserved and disadvantaged communities. The conference emphasized interdisciplinary contributions rooted in the social sciences and humanistic studies, reinforcing its commitment to inclusive and equitable research practices.
 
@@ -43,7 +43,7 @@ The success of ACM EAAMO ‘24 was made possible by the generous support of many
 
 Thanks to their collective support, ACM EAAMO ‘24 was able to uphold its commitment to equitable participation and expand access for underrepresented communities.
 
-### Conference Highlights
+## Conference Highlights
 The conference featured invited speakers and a series of diverse contributed sessions. In particular, we hosted two keynote speakers:
 - [Alessandra Fogli](https://sites.google.com/site/alessandrafoglisite/), Monetary Advisor and Assistant Director at the Federal Reserve Bank of Minneapolis, delivered a talk at the intersection of economics and social impact.
 - [Irene Lo](https://sites.google.com/view/irene-lo), Assistant Professor at Stanford University, discussed the implications of algorithmic design and fairness in policy-making contexts.
@@ -65,7 +65,7 @@ One of the most unique elements of ACM EAAMO ‘24 was the [**Social Hackathon**
 
 We are especially proud to highlight the [**Summer of Science Program**](https://www.eaamo.org/projects/rednacecyt-2024-summer-of-science-program), in which 29 Indigenous women from across Mexico conducted and presented community-centered research projects. Their work addressed themes such as environmental preservation, health equity, and education in Indigenous languages. This initiative amplified underrepresented voices and reaffirmed the importance of diversity in scientific research.
 
-### Program Participation
+## Program Participation
 
 ACM EAAMO '24 program attracted 113 research submissions. Following a rigorous peer-review process, 26 papers were accepted and presented during the conference. The program also featured 16 poster presentations, including seven by Indigenous students from the Peruvian Summer of Science program, further showcasing the conference's international and inclusive spirit. From the accepted papers, 13 were accepted in the fourth volume of the archival track of the conference: [the Proceedings of EAAMO ‘24: Equity and Access in Algorithms, Mechanisms, and Optimization](https://dl.acm.org/doi/proceedings/10.1145/3689904) published by the ACM.
 
@@ -79,7 +79,7 @@ In total, 203 individuals participated in EAAMO ‘24, with attendees joining bo
 
 - - -
 
-### Social Hackathon: Breast Cancer in Mexico
+## Social Hackathon: Breast Cancer in Mexico
 
 The [**ACM EAAMO ‘24 Social Hackathon**](https://conference2024.eaamo.org/social_hackathon/) provided a unique opportunity for participants to engage in applied problem-solving related to one of Mexico’s most pressing public health issues: breast cancer. With 31 individuals expressing interest and forming teams across continents, the hackathon encouraged innovative solutions to complex challenges related to early detection, patient support, healthcare access, and environmental exposure.
 
@@ -94,7 +94,7 @@ The [**ACM EAAMO ‘24 Social Hackathon**](https://conference2024.eaamo.org/soci
 
 Partners in this initiative included the Mobile Health Center at IPICYT, UASLP, and COPOCYT. Together, these institutions helped foster innovation, support data integration, and ensure local relevance and impact.
 
-### Indigenous Collaboration: Summer of Science Program
+## Indigenous Collaboration: Summer of Science Program
 
 The 2024 [**Summer of Science Program**](https://www.eaamo.org/projects/rednacecyt-2024-summer-of-science-program) was a landmark initiative in collaboration with REDNACECYT, designed to empower Indigenous women students from across Mexico. A total of 29 students participated, representing regions such as Michoacán, San Luis Potosí, Chihuahua, Puebla, and Oaxaca. These students come from Indigenous communities including the Purépecha, Tének, Rarámuri, and Náhuatl, bringing with them diverse cultural backgrounds and a shared commitment to positive change.
 
@@ -104,7 +104,7 @@ Their projects focused on local issues such as environmental conservation, commu
     <img src="imgs/DSC_0032.JPG" alt="Summer of Science Program" width="600"/>
 </p>
 
-### Acknowledgements
+## Acknowledgements
 
 We extend our deepest appreciation to all those who made ACM EAAMO ‘24 possible. This includes the authors and presenters whose work shaped the intellectual content of the conference, the reviewers and area chairs who ensured the quality of the submissions, the program and executive committees for their guidance, and the general chair for overseeing the event’s inclusive execution.
 
