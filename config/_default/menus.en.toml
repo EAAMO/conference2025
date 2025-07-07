@@ -87,9 +87,14 @@
    weight = 30
 
 [[footer]]
+   name = "Become a Sponsor"
+   pageRef = "become_a_sponsor"
+   weight = 40
+
+[[footer]]
    name = "Get Involved"
    pageRef = "get_involved"
-   weight = 40
+   weight = 50
 
 [[footer]]
    name = "Policies"
