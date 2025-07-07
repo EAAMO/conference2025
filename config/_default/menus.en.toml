@@ -17,22 +17,35 @@
    identifier = 'venue'
 
 [[main]]
+   name = "Conference Information"
+   pageRef = "conference_information"
+   weight = 10
+   identifier = 'conference_information'
+
+[[main]]
+   name = "Community Events"
+   pageRef = "community_events"
+   weight = 12
+   identifier = 'community_events'
+   parent = 'conference_information'
+
+[[main]]
    name = "Call for Participation"
    pageRef = "cfp"
-   weight = 10
+   weight = 11
    identifier = 'cfp'
 
 [[main]]
    name = "Call for Posters"
    pageRef = "call_for_posters"
-   weight = 11
+   weight = 12
    identifier = 'cfposters'
    parent = 'cfp'
 
 [[main]]
    name = "Call for Doctoral Consortium Participation"
    pageRef = "call_for_doctoral_consortium"
-   weight = 12
+   weight = 13
    identifier = 'cfdc'
    parent = 'cfp'
 
