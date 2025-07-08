@@ -79,4 +79,4 @@ We will provide opportunities for our sponsors, exhibitors, and partners to be i
 We look forward to your support to make ACM EAAMO'25 a great success! Contact us at the address below and check out our sponsorship policy at [this link](https://conference.eaamo.org/policies/#sponsorship-policy).
 
 ## Contact
-Reach us out at development@eaamo.org
+Contact us at development@eaamo.org
