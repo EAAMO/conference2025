@@ -45,17 +45,17 @@ We will provide opportunities for our sponsors, exhibitors, and partners to be i
     <thead>
       <tr>
         <th style="background-color:#5A4C9D; color:white; padding: 12px 16px; text-align: center;">Platinum</th>
-        <th style="background-color:#D8B136; padding: 12px 16px; text-align: center;">Gold</th>
-        <th style="background-color:#F3E4A2; padding: 12px 16px; text-align: center;">Silver</th>
+        <th style="background-color:#D8B136; color:#151D41; padding: 12px 16px; text-align: center;">Gold</th>
+        <th style="background-color:#F3E4A2; color:#151D41; padding: 12px 16px; text-align: center;">Silver</th>
         <th style="background-color:#D9853B; color:white; padding: 12px 16px; text-align: center;">Bronze</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="background-color:#d6cef1; padding: 12px 16px; text-align: center;">$19.5k+</td>
-        <td style="background-color:#fcefa4; padding: 12px 16px; text-align: center;">$9.5k+</td>
-        <td style="background-color:#fff9da; padding: 12px 16px; text-align: center;">$4.5k+</td>
-        <td style="background-color:#f7c99b; padding: 12px 16px; text-align: center;">$1k+</td>
+        <td style="background-color:#d6cef1; color:#151D41; padding: 12px 16px; text-align: center;">$19.5k+</td>
+        <td style="background-color:#fcefa4; color:#151D41; padding: 12px 16px; text-align: center;">$9.5k+</td>
+        <td style="background-color:#fff9da; color:#151D41; padding: 12px 16px; text-align: center;">$4.5k+</td>
+        <td style="background-color:#f7c99b; color:#151D41; padding: 12px 16px; text-align: center;">$1k+</td>
       </tr>
     </tbody>
   </table>
@@ -66,77 +66,77 @@ We will provide opportunities for our sponsors, exhibitors, and partners to be i
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr style="background-color: #f2f2f2;">
-      <th>Benefits</th>
+      <th style="color:#151D41;">Benefits</th>
       <th style="background-color:#5A4C9D; color:white; text-align: center;">Platinum</th>
-      <th style="background-color:#D8B136; text-align: center;">Gold</th>
-      <th style="background-color:#F3E4A2; text-align: center;">Silver</th>
+      <th style="background-color:#D8B136; color:#151D41; text-align: center;">Gold</th>
+      <th style="background-color:#F3E4A2; color:#151D41; text-align: center;">Silver</th>
       <th style="background-color:#D9853B; color:white; text-align: center;">Bronze</th>
-      <th>Notes</th>
+      <th style="color:#151D41;">Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Registration(s) $500 value w/ID & ribbon</td>
-      <td style="background-color:#d6cef1; text-align: center;">4</td>
-      <td style="background-color:#fcefa4; text-align: center;">3</td>
-      <td style="background-color:#fff9da; text-align: center;">2</td>
-      <td style="background-color:#f7c99b; text-align: center;">1</td>
+      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">4</td>
+      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">3</td>
+      <td style="background-color:#fff9da; color:#151D41; text-align: center;">2</td>
+      <td style="background-color:#f7c99b; color:#151D41; text-align: center;">1</td>
       <td>Sponsors receive complimentary registrations worth $500, complete with personalized identification and a special ribbon, granting full registration</td>
     </tr>
     <tr>
       <td>Conference-provided meals and invitation to our reception dinner w/each registration</td>
-      <td style="background-color:#d6cef1; text-align: center;">X</td>
-      <td style="background-color:#fcefa4; text-align: center;">X</td>
-      <td style="background-color:#fff9da; text-align: center;">X</td>
-      <td style="background-color:#f7c99b; text-align: center;">X</td>
+      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#fff9da; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#f7c99b; color:#151D41; text-align: center;">X</td>
       <td>Each registration includes meals provided by the conference, including an invitation to our reception dinner</td>
     </tr>
     <tr>
       <td>Recognition @ opening/closing</td>
-      <td style="background-color:#d6cef1; text-align: center;">X</td>
-      <td style="background-color:#fcefa4; text-align: center;">X</td>
-      <td style="background-color:#fff9da; text-align: center;">X</td>
-      <td style="background-color:#f7c99b; text-align: center;">X</td>
+      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#fff9da; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#f7c99b; color:#151D41; text-align: center;">X</td>
       <td>Sponsors will be recognized and thanked during the opening and closing ceremonies</td>
     </tr>
     <tr>
       <td>Acknowledgement in official proceedings of the Conference</td>
-      <td style="background-color:#d6cef1; text-align: center;">X</td>
-      <td style="background-color:#fcefa4; text-align: center;">X</td>
-      <td style="background-color:#fff9da; text-align: center;">X</td>
-      <td style="background-color:#f7c99b; text-align: center;">X</td>
+      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#fff9da; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#f7c99b; color:#151D41; text-align: center;">X</td>
       <td><a href="https://dl.acm.org/conference/eaamo/proceedings" target="_blank">Proceedings</a></td>
     </tr>
     <tr>
       <td>Acknowledgement in conference webpage</td>
-      <td style="background-color:#d6cef1; text-align: center;">large</td>
-      <td style="background-color:#fcefa4; text-align: center;">large</td>
-      <td style="background-color:#fff9da; text-align: center;">medium</td>
-      <td style="background-color:#f7c99b; text-align: center;">small</td>
+      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">large</td>
+      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">large</td>
+      <td style="background-color:#fff9da; color:#151D41; text-align: center;">medium</td>
+      <td style="background-color:#f7c99b; color:#151D41; text-align: center;">small</td>
       <td>The conference webpage will feature a special mention of our sponsors, including logos and links</td>
     </tr>
     <tr>
       <td>Acknowledgement on social media accounts (X, LinkedIn)</td>
-      <td style="background-color:#d6cef1; text-align: center;">X</td>
-      <td style="background-color:#fcefa4; text-align: center;">X</td>
-      <td style="background-color:#fff9da; text-align: center;">X</td>
-      <td style="background-color:#f7c99b; text-align: center;">X</td>
+      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#fff9da; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#f7c99b; color:#151D41; text-align: center;">X</td>
       <td>Sponsors will be acknowledged on the conference's Twitter and LinkedIn account</td>
     </tr>
     <tr>
       <td>Dedicated interview space</td>
-      <td style="background-color:#d6cef1; text-align: center;">X</td>
-      <td style="background-color:#fcefa4; text-align: center;">X</td>
-      <td style="background-color:#fff9da; text-align: center;"></td>
-      <td style="background-color:#f7c99b; text-align: center;"></td>
+      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#fff9da; color:#151D41; text-align: center;"></td>
+      <td style="background-color:#f7c99b; color:#151D41; text-align: center;"></td>
       <td>A private space will be provided for sponsors to conduct interviews</td>
     </tr>
     <tr>
       <td>Access to list of attendees (opt-in)</td>
-      <td style="background-color:#d6cef1; text-align: center;">X</td>
-      <td style="background-color:#fcefa4; text-align: center;">X</td>
-      <td style="background-color:#fff9da; text-align: center;"></td>
-      <td style="background-color:#f7c99b; text-align: center;"></td>
+      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#fff9da; color:#151D41; text-align: center;"></td>
+      <td style="background-color:#f7c99b; color:#151D41; text-align: center;"></td>
       <td>Sponsors will receive access to the list of conference attendees, a valuable resource for networking and building connections</td>
     </tr>
   </tbody>
