@@ -24,7 +24,7 @@ We are an international and interdisciplinary community, with academic experts, 
 
 The work highlighted in the ACM EAAMO conference series is selected through a highly rigorous peer review process and published in the ACM Digital Library, which is a top-tier publication venue in the computational sciences. As such, the work presented is of high quality and has concrete impact on technology development and societal considerations. Our invited speakers are domain experts from various geographies and disciplines. We offer support for students and civic organizers to participate, with a major contingent in Latin America, Africa, and Europe. As such, we are unique in fostering a highly diverse participation and support programs ranging from cutting-edge academic contributions to [social hackathons](https://conference2024.eaamo.org/social_hackathon/), [mentoring programs in Indigenous communities of Mexico](https://www.eaamo.org/projects/rednacecyt-2024-summer-of-science-program), and [year-round working groups](https://bridges.eaamo.org/). Check-out highlights from our 2024 conference [here](https://conference.eaamo.org/eaamo_at_a_glance_24/).
 
-## Why Become a Sponsor of ACM EAAMO'25:
+## Why Sponsor ACM EAAMO'25:
 
 - Access top-tier research in AI, Economics, Operations Research, Law, Sociology, and others
 - Connect with civic and non-profit organizations and government partners who develop programs for underserved groups
@@ -85,26 +85,26 @@ We will provide opportunities for our sponsors, exhibitors, and partners to be i
     </tr>
     <tr>
       <td>Conference-provided meals and invitation to our reception dinner w/each registration</td>
-      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">X</td>
-      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">X</td>
-      <td style="background-color:#fff9da; color:#151D41; text-align: center;">X</td>
-      <td style="background-color:#f7c99b; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">✓</td>
+      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">✓</td>
+      <td style="background-color:#fff9da; color:#151D41; text-align: center;">✓</td>
+      <td style="background-color:#f7c99b; color:#151D41; text-align: center;">✓</td>
       <td>Each registration includes meals provided by the conference, including an invitation to our reception dinner</td>
     </tr>
     <tr>
       <td>Recognition @ opening/closing</td>
-      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">X</td>
-      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">X</td>
-      <td style="background-color:#fff9da; color:#151D41; text-align: center;">X</td>
-      <td style="background-color:#f7c99b; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">✓</td>
+      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">✓</td>
+      <td style="background-color:#fff9da; color:#151D41; text-align: center;">✓</td>
+      <td style="background-color:#f7c99b; color:#151D41; text-align: center;">✓</td>
       <td>Sponsors will be recognized and thanked during the opening and closing ceremonies</td>
     </tr>
     <tr>
       <td>Acknowledgement in official proceedings of the Conference</td>
-      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">X</td>
-      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">X</td>
-      <td style="background-color:#fff9da; color:#151D41; text-align: center;">X</td>
-      <td style="background-color:#f7c99b; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">✓</td>
+      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">✓</td>
+      <td style="background-color:#fff9da; color:#151D41; text-align: center;">✓</td>
+      <td style="background-color:#f7c99b; color:#151D41; text-align: center;">✓</td>
       <td><a href="https://dl.acm.org/conference/eaamo/proceedings" target="_blank">Proceedings</a></td>
     </tr>
     <tr>
@@ -117,24 +117,24 @@ We will provide opportunities for our sponsors, exhibitors, and partners to be i
     </tr>
     <tr>
       <td>Acknowledgement on social media accounts (X, LinkedIn)</td>
-      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">X</td>
-      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">X</td>
-      <td style="background-color:#fff9da; color:#151D41; text-align: center;">X</td>
-      <td style="background-color:#f7c99b; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">✓</td>
+      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">✓</td>
+      <td style="background-color:#fff9da; color:#151D41; text-align: center;">✓</td>
+      <td style="background-color:#f7c99b; color:#151D41; text-align: center;">✓</td>
       <td>Sponsors will be acknowledged on the conference's Twitter and LinkedIn account</td>
     </tr>
     <tr>
       <td>Dedicated interview space</td>
-      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">X</td>
-      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">✓</td>
+      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">✓</td>
       <td style="background-color:#fff9da; color:#151D41; text-align: center;"></td>
       <td style="background-color:#f7c99b; color:#151D41; text-align: center;"></td>
       <td>A private space will be provided for sponsors to conduct interviews</td>
     </tr>
     <tr>
       <td>Access to list of attendees (opt-in)</td>
-      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">X</td>
-      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">X</td>
+      <td style="background-color:#d6cef1; color:#151D41; text-align: center;">✓</td>
+      <td style="background-color:#fcefa4; color:#151D41; text-align: center;">✓</td>
       <td style="background-color:#fff9da; color:#151D41; text-align: center;"></td>
       <td style="background-color:#f7c99b; color:#151D41; text-align: center;"></td>
       <td>Sponsors will receive access to the list of conference attendees, a valuable resource for networking and building connections</td>
@@ -143,7 +143,7 @@ We will provide opportunities for our sponsors, exhibitors, and partners to be i
 </table>
 
 **Additional sponsorship opportunities:**
-Co-branded event that can be tailored to the needs of the sponsor, including but not limited to: designated interviews space, informational booth, hackathon, lunches with discussion prompts, and similar.
+Join us in designing co-branded events during the conference, such as a hackathon, lunches with discussion prompts designed by sponsors, dedicated interview space or informational booth etc.
 
 ## Past Sponsors
 
