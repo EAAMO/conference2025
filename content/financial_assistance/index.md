@@ -19,6 +19,21 @@ Our financial assistance includes:
 Our travel grant chairs are here to help and will respond quickly to any questions. Please apply only if you do not have access to other funding, and request the minimum necessary support so we can help as many participants as possible.
 
 Link: [apply here](https://docs.google.com/forms/d/e/1FAIpQLSdEwGZ43i-plZvJpbqnVLZg3uMDgNkcoGv3QbgpZTKrerE-IQ/viewform?usp=header)
+
 The application will be open until **August 25, 2025**.
 
 For questions, contact us at membership@eaamo.org.
+
+- - -
+
+## Requesting a Visa Support Letter
+
+The Association for Computing Machinery **does not issue formal invitation letters** for visas to attend ACM sponsored conferences. ACM can however issue a visa support letter. Please mind the following information from the ACM:
+- ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee.
+- For visa support letters, refer all requests to supportletters@acm.org. Please allow up to 10 business days to receive a letter. All requests are handled in the order they are received. The information below should be included with the request:
+    - Your name as it appears on your passport
+    - Your current postal mailing address
+    - The name of the conference you are registering for
+    - Your registration confirmation number
+    - If you have any papers accepted for the conference, please provide the title and indicate whether you are the “sole author” or a “co-author”
+    - Authors may indicate their paper title. If no paper, speakers can provide the title of their presentation
