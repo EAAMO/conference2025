@@ -13,10 +13,10 @@ We especially encourage applications from those with accepted papers, [posters](
 Our financial assistance includes:
 - In-person registration fee waiver
 - Virtual registration fee waiver
-- Travel grant (to help cover travel and lodging)
+- Travel grant (to cover travel costs and/or cost of stay)
 
 ### How to Apply
-Our travel grant chairs are here to help and will respond quickly to any questions. Please apply only if you do not have access to other funding, and request the minimum necessary support so we can help as many participants as possible.
+Our travel grant chairs are here to help and will respond quickly to any questions. Please note that available funds are limited, and we will not be able to provide support to all applicants. Therefore, please apply only if you do not have access to other funding, and request the minimum necessary support so we can help as many participants as possible. 
 
 Link: [apply here](https://docs.google.com/forms/d/e/1FAIpQLSdEwGZ43i-plZvJpbqnVLZg3uMDgNkcoGv3QbgpZTKrerE-IQ/viewform?usp=header)
 
