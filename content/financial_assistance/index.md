@@ -15,6 +15,8 @@ Our financial assistance includes:
 - Virtual registration fee waiver
 - Travel grant (to cover travel costs and/or cost of stay)
 
+*Please note that receiving financial assistance does not guarantee coverage of all listed items; support will be provided based on individual need and available funds.*
+
 ### How to Apply
 Our travel grant chairs are here to help and will respond quickly to any questions. Please note that available funds are limited, and we will not be able to provide support to all applicants. Therefore, please apply only if you do not have access to other funding, and request the minimum necessary support so we can help as many participants as possible. 
 
