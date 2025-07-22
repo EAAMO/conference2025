@@ -22,7 +22,7 @@ Our travel grant chairs are here to help and will respond quickly to any questio
 
 Link: [apply here](https://docs.google.com/forms/d/e/1FAIpQLSdEwGZ43i-plZvJpbqnVLZg3uMDgNkcoGv3QbgpZTKrerE-IQ/viewform?usp=header)
 
-The application will be open until **August 25, 2025**.
+The application will be open until **August 25, 2025**. We aim to release financial support packages by the end of mid/late September.
 
 For questions, contact us at membership@eaamo.org.
 
