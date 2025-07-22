@@ -50,6 +50,13 @@
    parent = 'cfp'
 
 [[main]]
+   name = "Financial Assistance"
+   pageRef = "financial_assistance"
+   weight = 143
+   identifier = 'financial_assistance'
+   parent = 'cfp'
+
+[[main]]
    name = "Committees"
    pageRef = "committees"
    weight = 20
