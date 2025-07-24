@@ -29,6 +29,7 @@ layout: "simple"
 Poster Session Chairs:
 - [Santiago Cortes-Gomez](https://www.linkedin.com/in/santiago-cortes-839931155/), Carnegie Mellon University, USA
 - [Paula Rodriguez-Diaz](https://paularodrid.wordpress.com/), Harvard University, USA
+- [Namrata Mukhija](https://namrata96.github.io/), Amazon, USA
 
 Doctoral Consortium Chair:
 - [Juba Ziani](https://www.isye.gatech.edu/users/juba-ziani), Georgia Institute of Technology, USA
@@ -47,14 +48,19 @@ Registration and Travel Grant Chairs:
 
 Social Media Chairs:
 - [Rhea Tibrewala](https://www.linkedin.com/in/rheatibrewala891226/), Harvard University, USA
+- [Matthew Franchi](https://mfranchi.net/), Cornell University, USA
+- [Kuheli Sai](https://sites.google.com/view/kuhelisai/), University of Pittsburgh, USA
 
 Junior Treasurer:
 - Samuel Rendon, University of Pittsburgh, USA
 
 General Volunteers:
 - Abdulaziz Alotaibi, University of Pittsburgh, USA
+- Aren Altahya, University of Pittsburgh, USA
 - Kartik Hans, University of Pittsburgh, USA
 - Hui Ji, University of Pittsburgh, USA
+- Devine Loving, University of Colorado Denver, USA
+- Hoan Luu, University of Pittsburgh, USA
 
 - - -
 
