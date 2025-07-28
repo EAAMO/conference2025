@@ -23,6 +23,13 @@
    identifier = 'conference_information'
 
 [[main]]
+   name = "Accepted Papers"
+   pageRef = "accepted_papers"
+   weight = 11
+   identifier = 'accepted_papers'
+   parent = 'conference_information'
+
+[[main]]
    name = "Community Events"
    pageRef = "community_events"
    weight = 12
