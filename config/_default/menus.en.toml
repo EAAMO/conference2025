@@ -30,7 +30,7 @@
    parent = 'conference_information'
 
 [[main]]
-   name = "Community Events"
+   name = "Community and Social Events"
    pageRef = "community_events"
    weight = 12
    identifier = 'community_events'
