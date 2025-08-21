@@ -50,3 +50,4 @@ Application areas of interest include civic participation, data economies, discr
 ## Chairs:
 - [Paula Rodriguez-Diaz](https://paularodrid.wordpress.com/) (Harvard University)
 - [Santiago Cortes-Gomez](https://www.linkedin.com/in/santiago-cortes-839931155/) (Carnegie Mellon University)
+- [Namrata Mukhija](https://namrata96.github.io/), (Amazon)
