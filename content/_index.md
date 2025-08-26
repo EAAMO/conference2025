@@ -53,12 +53,12 @@ description: "ACM conference on Equity and Access in Algorithms, Mechanisms, and
 - - -
 
 ## News:
+- The registration for ACM EAAMO '25 is expected to be live on *Septmeber 5, 2025*. Details can be found [here](registration).
 - Accepted papers for ACM EAAMO'25 are now [available on the website](conference_information/accepted_papers).
 - Financial assistance applications for ACM EAAMO'25 are now open. [Apply now](financial_assistance).
-- Now Open: [Call for Posters](cfp/call_for_posters/) for ACM EAAMO '25 - **Submit by August 5**!
-- Apply Now: [Doctoral Consortium](cfp/call_for_doctoral_consortium/) at ACM EAAMO '25 - Connect, Present, and Learn with Peers and Mentors in Equity and Algorithmic Research. **Deadline July 25, 2025**.
 - Download our [one-pager](EAAMO'25_Conference_Flyer.pdf) to quickly learn about the conference and help spread the word!
-
+<!-- - Now Open: [Call for Posters](cfp/call_for_posters/) for ACM EAAMO '25 - **Submit by August 5**!
+- Apply Now: [Doctoral Consortium](cfp/call_for_doctoral_consortium/) at ACM EAAMO '25 - Connect, Present, and Learn with Peers and Mentors in Equity and Algorithmic Research. **Deadline July 25, 2025**. -->
 - - -
 
 <!-- - The host institution of ACM EAAMO'25 will be [Responsible Data Science](https://www.datascience.pitt.edu/) at University of Pittsburgh. -->

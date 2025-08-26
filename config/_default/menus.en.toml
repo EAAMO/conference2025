@@ -64,6 +64,12 @@
    parent = 'cfp'
 
 [[main]]
+   name = "Registration"
+   pageRef = "registration"
+   weight = 19
+   identifier = 'registration'
+
+[[main]]
    name = "Committees"
    pageRef = "committees"
    weight = 20
