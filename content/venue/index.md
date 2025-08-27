@@ -13,7 +13,10 @@ The conference will take place at the [Connolly Ballroom, Alumni Hall](https://w
 Public transit option from the **Pittsburgh International Airport (PIT)**: Go to door 2 of the terminal, and take the **[28X Airport Flyer bus](https://www.rideprt.org/pdfs/28X.pdf)** . Get off at Forbes Ave + Bellefield NS stop. From the stop it is a three minute walk to Alumni hall. Tickets can be purchased from the [PRT mobile app](https://www.rideprt.org/gomobile) for three dollars.
 
 ## Nearby Hotels
-We don't have any arrangements for discounts, but we recommend the following hotels:
+We recommend the following hotel:
+- [Hilton Garden Inn Pittsburgh University Place](https://www.hilton.com/en/hotels/pitucgi-hilton-garden-inn-pittsburgh-university-place/?msockid=1ec2eda56206645932c4ff9763af65e1). ACM EAAMO '25 has a small number of rooms with discounted price. For more information, please contact membership@eaamo.org.
+
+Other hotels to consider:
 - The [Oaklander Hotel](https://www.marriott.com/en-us/hotels/pitak-the-oaklander-hotel-autograph-collection/overview/), five min walk from conference venue.
 - [Courtyard Pittsburgh University Center](https://www.marriott.com/en-us/hotels/pityu-courtyard-pittsburgh-university-center/overview/), five min walk from the conference venue.
 
