@@ -30,9 +30,16 @@
    parent = 'conference_information'
 
 [[main]]
+   name = "Keynote Speakers"
+   pageRef = "keynote_speakers"
+   weight = 12
+   identifier = 'keynote_speakers'
+   parent = 'conference_information'
+
+[[main]]
    name = "Community and Social Events"
    pageRef = "community_events"
-   weight = 12
+   weight = 13
    identifier = 'community_events'
    parent = 'conference_information'
 
