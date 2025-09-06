@@ -2,8 +2,8 @@
 title: "EAAMO’25 Local | Oxford"
 date: 2025-09-06
 draft: false
-description: "The page dedicated to the registration for the ACM EAAMO '25."
-summary: "The page dedicated to the registration for the ACM EAAMO '25."
+description: "The page dedicated to the Oxford event related to the ACM EAAMO '25."
+summary: "The page dedicated to the Oxford event related to the ACM EAAMO '25."
 showTableOfContents: True
 
 ---
