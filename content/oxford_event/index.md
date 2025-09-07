@@ -8,10 +8,13 @@ showTableOfContents: True
 
 ---
 
-Event name: EAAMO’25 Local | Oxford
+<!-- Event name: EAAMO’25 Local | Oxford -->
+
+![EAAMO Oxford Logo](Oxford_Local_Satellite_Event.png)
 
 **Date:** 5–7 November 2025  \
-**Location:** [Linacre College, Oxford](https://maps.google.com/?q=Linacre+College,+Oxford)
+**Location:** [Linacre College, Oxford](https://maps.google.com/?q=Linacre+College,+Oxford) \
+**Contact:** [oxfordlocal@eaamo.org](mailto:oxfordlocal@eaamo.org)
 
 ---
 
@@ -20,7 +23,7 @@ EAAMO ’25 | OXFORD Local brings together researchers from computer science, ec
 
 The event will be held alongside the fifth **ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO'25)** at the University of Pittsburgh, USA.
 
-We will also host the participants of the **EAAMO‑REDNACECYT Summer of Science 2025**. The students will present their research in Oxford. They will also take part in a series of seminars, workshops, and activities in a separate event in London (8–9 November) — London website (*link coming soon*).
+As part of the **EAAMO‑REDNACECYT Summer of Science 2025**, our event will also host indigenous researchers from Latin America. In addition to presenting their work in Oxford, they will also take part in a series of seminars, workshops, and activities in an event in London (8–9 November).
 
 ---
 
@@ -32,9 +35,11 @@ Please register by **19 October** to help us plan the event. Registration is fre
 ---
 
 ## Important dates
-- **Submission deadline:** 5 October AoE  
-- **Submission notification:** 12 October AoE  
-- **Registration deadline:** 19 October AoE
+- **Early bird submissions** by 26 September AoE will be **notified** by 30 September AoE. \
+If you are a late bird, email us at [oxfordlocal@eaamo.org](mailto:oxfordlocal@eaamo.org).
+- **Submission deadline:** 5 October AoE.
+- **Submission notification:** 12 October AoE.
+- **Registration deadline:** 19 October AoE.
 
 ---
 
@@ -80,12 +85,12 @@ We welcome work from academics and practitioners across diverse disciplines and 
     <td style="vertical-align:top;width:50%;">
       <img src="maximikian_kasy.jpeg" alt="Photo of Maximilian Kasy" style="width:100%;max-width:280px;border-radius:12px;" />
       <div><strong>Maximilian (Max) Kasy</strong> — University of Oxford</div>
-      <div><a href="#" target="_blank" rel="noopener">Website</a></div>
+      <div><a href="https://maxkasy.github.io/home/" target="_blank" rel="noopener">Website</a></div>
     </td>
     <td style="vertical-align:top;width:50%;">
       <img src="weber_ingmar.jpg" alt="Photo of Ingmar Weber" style="width:100%;max-width:280px;border-radius:12px;" />
       <div><strong>Ingmar Weber</strong> — Saarbrücken University (Saarland University)</div>
-      <div><a href="#" target="_blank" rel="noopener">Website</a></div>
+      <div><a href="https://ingmarweber.de/" target="_blank" rel="noopener">Website</a></div>
     </td>
   </tr>
 </table>
@@ -106,7 +111,7 @@ We welcome work from academics and practitioners across diverse disciplines and 
 - 12:00–14:30 — Lunch Break and City Walk  
 - 14:30–15:30 — Plenary talk (Pittsburgh Online Talk, day 1)  
 - 15:30–17:00 — Paper Presentations (Topic 2, day 1)  
-- 17:30–18:30 — Poster Session 1  
+- 17:30–19:00 — Poster Session 1 (Summer of Science participants)
 - 19:00–20:30 — Dinner
 
 ### Day 2 — Thursday, 06 November 2025
@@ -118,7 +123,7 @@ We welcome work from academics and practitioners across diverse disciplines and 
 - 12:00–14:30 — Lunch Break and City Walk  
 - 14:30–15:30 — Plenary talk (Pittsburgh Online Talk, day 2)  
 - 15:30–17:00 — Paper Presentations (Topic 2, day 2)  
-- 17:30–18:30 — Poster Session 2  
+- 17:30–19:00 — Poster Session 2 (Summer of Science participants)
 - 19:00–20:30 — Dinner
 
 ### Day 3 — Friday, 07 November 2025
@@ -129,7 +134,7 @@ We welcome work from academics and practitioners across diverse disciplines and 
 - 12:00–14:30 — Lunch Break and City Walk  
 - 14:30–15:30 — Keynote Lecture: Ingmar Weber (Alexander von Humboldt Professor in AI, Saarland University)  
 - 15:30–17:00 — Paper Presentations (Topic 2, day 3)  
-- 17:30–18:30 — Poster Session 3  
+- 17:30–19:00 — Conference Social 
 - 19:00–20:30 — Dinner
 
 ---
