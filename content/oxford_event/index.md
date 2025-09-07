@@ -13,7 +13,9 @@ showTableOfContents: True
 ![EAAMO Oxford Logo](Oxford_Local_Satellite_Event.png)
 
 **Date:** 5–7 November 2025  \
-**Location:** [Linacre College, Oxford](https://maps.google.com/?q=Linacre+College,+Oxford) \
+**Location:** [Linacre College, Oxford](https://maps.google.com/?q=Linacre+College,+Oxford)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2469.5628904471187!2d-1.2525140233648229!3d51.75931607187166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876c6aa4500f56f%3A0xc2613c4327b3d38e!2sLinacre%20College!5e0!3m2!1sen!2srs!4v1757247329772!5m2!1sen!2srs" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 **Contact:** [oxfordlocal@eaamo.org](mailto:oxfordlocal@eaamo.org)
 
 ---
@@ -95,13 +97,13 @@ We welcome work from academics and practitioners across diverse disciplines and 
   </tr>
 </table>
 
-> Speaker photos and links will be updated once confirmed.
-
 ---
 
 ## Preliminary schedule
 
-### Day 1 — Wednesday, 05 November 2025
+<a href="EAAMO'25 _ Oxford Local (Preliminary Schedule).pdf" target="_blank" rel="noopener" style="display:inline-block;margin-top:6px;padding:10px 16px;border-radius:8px;border:1px solid #111;text-decoration:none;font-weight:600;">Download the preliminary schedule</a>
+
+<!-- ### Day 1 — Wednesday, 05 November 2025
 **Keynote Speaker:** To be confirmed  
 **Session Topics:** Topics day 1
 
@@ -135,14 +137,14 @@ We welcome work from academics and practitioners across diverse disciplines and 
 - 14:30–15:30 — Keynote Lecture: Ingmar Weber (Alexander von Humboldt Professor in AI, Saarland University)  
 - 15:30–17:00 — Paper Presentations (Topic 2, day 3)  
 - 17:30–19:00 — Conference Social 
-- 19:00–20:30 — Dinner
+- 19:00–20:30 — Dinner -->
 
 ---
 
 ## Organisers
 - [Edwin Lock](https://edwinlock.com)
 - [Michelle González Amador](https://www.m-gonzalezamador.com/)
-- [Rubén Martínez Cárdenas](https://www.york.ac.uk/economics/people/mart%C3%ADnez-c%C3%A1rdenas-rub%C3%A9n/) · [Personal site](https://rubenmtzc.netlify.app/)
+- [Rubén Martínez Cárdenas](https://rubenmtzc.netlify.app/)
 
 ---
 
