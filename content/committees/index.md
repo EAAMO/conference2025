@@ -51,8 +51,8 @@ Social Media Chairs:
 - [Matthew Franchi](https://mfranchi.net/), Cornell University, USA
 - [Kuheli Sai](https://sites.google.com/view/kuhelisai/), University of Pittsburgh, USA
 
-Junior Treasurer:
-- Samuel Rendon, University of Pittsburgh, USA
+Treasurer:
+- Ana-Andreea Stoica, Max Planck Institute for Intelligent Systems, Germany
 
 General Volunteers:
 - Abdulaziz Alotaibi, University of Pittsburgh, USA
