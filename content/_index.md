@@ -53,7 +53,7 @@ description: "ACM conference on Equity and Access in Algorithms, Mechanisms, and
 - - -
 
 ## News:
-- The registration for ACM EAAMO '25 is expected to be live on *Septmeber 5, 2025*. Details can be found [here](registration).
+- The registration for ACM EAAMO '25 is expected to be live on *Septmeber 15, 2025*. Details can be found [here](registration).
 - Accepted papers for ACM EAAMO'25 are now [available on the website](conference_information/accepted_papers).
 - Financial assistance applications for ACM EAAMO'25 are now open. [Apply now](financial_assistance).
 - Download our [one-pager](EAAMO'25_Conference_Flyer.pdf) to quickly learn about the conference and help spread the word!
