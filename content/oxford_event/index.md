@@ -37,18 +37,19 @@ Please register by **19 October** to help us plan the event. Registration is fre
 ---
 
 ## Important dates
-- **Early bird submissions** by 26 September AoE will be **notified** by 30 September AoE. \
-If you are a late bird, email us at [oxfordlocal@eaamo.org](mailto:oxfordlocal@eaamo.org).
+- **Early bird submissions** by 26 September AoE will be **notified** by 30 September AoE.
 - **Submission deadline:** 5 October AoE.
 - **Submission notification:** 12 October AoE.
 - **Registration deadline:** 19 October AoE.
+
+If you are a late bird, email us at [oxfordlocal@eaamo.org](mailto:oxfordlocal@eaamo.org).
 
 ---
 
 ## Call for Submissions
 We invite submissions that advance access to opportunity for historically underserved and disadvantaged communities while addressing inequitable or unsafe outcomes.
 
-We accept submissions that have been published elsewhere and that are also being presented at EAAMO’25.
+We also accept submissions that have been published elsewhere or that are also being presented at EAAMO’25 (by a co-author).
 
 <a href="https://forms.gle/PquKuUvTLNJQUuQNA" target="_blank" rel="noopener" style="display:inline-block;margin-top:6px;padding:10px 16px;border-radius:8px;border:1px solid #111;text-decoration:none;font-weight:600;">Submit your work</a>
 
@@ -151,6 +152,6 @@ We welcome work from academics and practitioners across diverse disciplines and 
 ## Acknowledgements
 We are grateful for the support from:
 
-- REDNACECYT  
-- EAAMO  
-- The Oxford Mexican Society
+[![REDNACECYT](rednacecyt.svg)](https://rednacecyt.org/)
+[![EAAMO](EAAMO_LOGO-01.png)](https://www.eaamo.org/)
+[![The Oxford Mexican Society](oxford_mexican_society.png)](https://oxfordmexsocorg.wordpress.com/)
