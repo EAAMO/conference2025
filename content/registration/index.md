@@ -9,7 +9,7 @@ showTableOfContents: True
 ---
 ## Registration
 
-Registration for the 5th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization is expected to be live on *Septmber 5th, 2025*. If you have any questions, please contact us at [membership@eaamo.org](mailto:membership@eaamo.org).
+Registration for the 5th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization is expected to be live on *Septmber 15th, 2025*. If you have any questions, please contact us at [membership@eaamo.org](mailto:membership@eaamo.org).
 
 - - -
 
