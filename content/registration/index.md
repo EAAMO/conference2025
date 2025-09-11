@@ -9,13 +9,17 @@ showTableOfContents: True
 ---
 ## Registration
 
-Registration for the 5th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization is expected to be live on *Septmber 15th, 2025*. If you have any questions, please contact us at [membership@eaamo.org](mailto:membership@eaamo.org).
+Registration for the 5th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization is now live! 
+
+**Important note:** Participants who received a complimentary registration grant will receive a code that will allow registration for free.  **Please wait for that code before registering**. We will not be able to reimburse registration if one registers without this code.
+
+<a href="https://cvent.me/mgZVYy" target="_blank" rel="noopener" style="display:inline-block;margin-top:6px;padding:10px 16px;border-radius:8px;border:1px solid #111;text-decoration:none;font-weight:600;">Register for ACM EAAMO 25 here</a>
+
+If you have any questions, please contact us at [membership@eaamo.org](mailto:membership@eaamo.org).
 
 - - -
 
 ## Prices
-
-**Important note:** Participants who received a complimentary registration grant will receive a code that will allow registration for free. **Please wait for that code before registering**. We will not be able to reimburse registration if one registers without this code.
 
 The registration fees for *in-person participation* are the following:
 
