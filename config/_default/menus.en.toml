@@ -95,6 +95,13 @@
    parent = 'satelitte'
 
 [[main]]
+   name = "Cape Town Local Event"
+   pageRef = "cape_town_event"
+   weight = 212
+   identifier = 'cape_town_event'
+   parent = 'satelitte'
+
+[[main]]
   identifier = "search"
   weight = 99
   [main.params]
