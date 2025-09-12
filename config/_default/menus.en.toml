@@ -83,6 +83,18 @@
    identifier = 'committees'
 
 [[main]]
+   name = "Satellite events"
+   weight = 21
+   identifier = 'satelitte'
+
+[[main]]
+   name = "Oxford Local Event"
+   pageRef = "oxford_event"
+   weight = 211
+   identifier = 'oxford_event'
+   parent = 'satelitte'
+
+[[main]]
   identifier = "search"
   weight = 99
   [main.params]
