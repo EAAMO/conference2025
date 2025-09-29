@@ -9,3 +9,6 @@ node_modules/
 
 # Temporary lock file while building
 .hugo_build.lock
+
+# Mac files
+.DS_Store
