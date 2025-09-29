@@ -23,7 +23,30 @@ The event will be held alongside the fifth *ACM Conference on Equity and Access 
 
 In addition to invited talks, participants will have opportunities to connect with attendees at the main EAAMO conference in Pittsburgh and the local event in Oxford.
 
-*More information coming soon.*
+## Register your interest
+
+If you would you like to attend the Cape Town local event, please complete [this form](https://forms.gle/Uh9GNJQaBgfGSJEZ9). 
+
+## Invited keynote speakers
+
+### [Emily Aiken](https://emilylaiken.github.io/)
+
+
+<p align="center">
+  <img src="emily_aiken.jpg" alt="Emily Aiken" style="width:100%;max-width:280px;border-radius:12px;">
+</p>
+
+Emily is a postdoctoral scholar at Carnegie Mellon University Africa and an incoming assistant professor of data science and public policy at the University of California, San Diego (starting in 2026). Emily's research lies at the intersection of data science and development economics, primarily studying the application of novel algorithms and digital data sources for social protection and humanitarian aid programs. Emily holds a PhD in information science and an MS in computer science from UC Berkeley, and a BA in computer science from Harvard University.
+
+
+### [Fazlyn Petersen](https://sites.google.com/uwc.ac.za/fazlyn-portfolio/home?authuser=0)
+
+<p align="center">
+  <img src="fazlyn_petersen.jpeg" alt="Fazlyn Petersen" style="width:100%;max-width:280px;border-radius:12px;">
+</p>
+
+Dr Fazlyn Petersen has worked in various industries and professions for ten years, applying her theoretical knowledge to practical applications. Her use of human-centred design allows for collaboration with users to lead the design process for creating IT solutions. Her work focuses on ICT for Sustainable Community Development and Innovation. Her fusion of user-centric ethos and dedication to transformative change showcases a pathway where innovation intertwines with community empowerment.
+
 
 ---
 
