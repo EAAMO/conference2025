@@ -2,7 +2,7 @@
 title: "EAAMO’25 Local | Cape Town"
 date: 2025-09-06
 draft: false
-description: "TCape Town Local event for ACM EAAMO '25."
+description: "Cape Town Local event for ACM EAAMO '25."
 summary: "Cape Town Local event for ACM EAAMO '25."
 showTableOfContents: True
 
