@@ -102,6 +102,13 @@
    parent = 'satelitte'
 
 [[main]]
+   name = "London Local Event"
+   pageRef = "london_event"
+   weight = 213
+   identifier = 'london_event'
+   parent = 'satelitte'
+
+[[main]]
   identifier = "search"
   weight = 99
   [main.params]
