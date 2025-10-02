@@ -25,7 +25,7 @@ EAAMO ’25 | OXFORD Local brings together researchers from computer science, ec
 
 The event will be held alongside the fifth **ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO'25)** at the University of Pittsburgh, USA.
 
-As part of the **EAAMO‑REDNACECYT Summer of Science 2025**, our event will also host indigenous researchers from Latin America. In addition to presenting their work in Oxford, they will also take part in a series of seminars, workshops, and activities in an event in London (8–9 November).
+As part of the **EAAMO‑REDNACECYT Summer of Science 2025**, our event will also host indigenous researchers from Latin America. In addition to presenting their work in Oxford, they will also take part in a series of seminars, workshops, and activities in an event in London (3–4 November).
 
 ---
 
