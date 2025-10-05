@@ -13,8 +13,20 @@
 [[main]]
    name = "Venue"
    pageRef = "venue"
-   weight = 9
+   weight = 7
    identifier = 'venue'
+
+[[main]]
+   name = "Schedule"
+   pageRef = "schedule"
+   weight = 8
+   identifier = 'schedule'
+
+[[main]]
+   name = "Registration"
+   pageRef = "registration"
+   weight = 9
+   identifier = 'registration'
 
 [[main]]
    name = "Conference Information"
@@ -22,11 +34,18 @@
    weight = 10
    identifier = 'conference_information'
 
+# [[main]]
+#   name = "Accepted Papers"
+#   pageRef = "accepted_papers"
+#   weight = 11
+#   identifier = 'accepted_papers'
+#   parent = 'conference_information'
+
 [[main]]
-   name = "Accepted Papers"
-   pageRef = "accepted_papers"
-   weight = 11
-   identifier = 'accepted_papers'
+   name = "Schedule"
+   pageRef = "schedule"
+   weight = 9
+   identifier = 'schedule_2'
    parent = 'conference_information'
 
 [[main]]
@@ -43,44 +62,32 @@
    identifier = 'community_events'
    parent = 'conference_information'
 
-[[main]]
-   name = "Call for Participation"
-   pageRef = "cfp"
-   weight = 11
-   identifier = 'cfp'
+#[[main]]
+#   name = "Call for Participation"
+#   pageRef = "cfp"
+#   weight = 12
+#   identifier = 'cfp'
 
-[[main]]
-   name = "Call for Posters"
-   pageRef = "call_for_posters"
-   weight = 12
-   identifier = 'cfposters'
-   parent = 'cfp'
+#[[main]]
+#   name = "Call for Posters"
+#   pageRef = "call_for_posters"
+#   weight = 12
+#   identifier = 'cfposters'
+#   parent = 'cfp'
 
-[[main]]
-   name = "Call for Doctoral Consortium Participation"
-   pageRef = "call_for_doctoral_consortium"
-   weight = 13
-   identifier = 'cfdc'
-   parent = 'cfp'
+# [[main]]
+#   name = "Call for Doctoral Consortium Participation"
+#   pageRef = "call_for_doctoral_consortium"
+#   weight = 13
+#   identifier = 'cfdc'
+#   parent = 'cfp'
 
-[[main]]
-   name = "Financial Assistance"
-   pageRef = "financial_assistance"
-   weight = 143
-   identifier = 'financial_assistance'
-   parent = 'cfp'
-
-[[main]]
-   name = "Registration"
-   pageRef = "registration"
-   weight = 19
-   identifier = 'registration'
-
-[[main]]
-   name = "Committees"
-   pageRef = "committees"
-   weight = 20
-   identifier = 'committees'
+# [[main]]
+#   name = "Financial Assistance"
+#   pageRef = "financial_assistance"
+#   weight = 143
+#   identifier = 'financial_assistance'
+#   parent = 'cfp'
 
 [[main]]
    name = "Satellite events"
@@ -123,6 +130,11 @@
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
+
+[[footer]]
+   name = "Committees"
+   pageRef = "committees"
+   weight = 9
 
 [[footer]]
    name = "Past Conferences"

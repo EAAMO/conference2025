@@ -53,6 +53,7 @@ description: "ACM conference on Equity and Access in Algorithms, Mechanisms, and
 - - -
 
 ## News:
+- Preliminary schedule is out! Check out the program [here](conference_information/schedule/). 
 - The registration for ACM EAAMO '25 is now live! Details can be found [here](registration).
 - Accepted papers for ACM EAAMO'25 are now [available on the website](conference_information/accepted_papers).
 - Financial assistance applications for ACM EAAMO'25 are now open. [Apply now](financial_assistance).
