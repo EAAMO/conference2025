@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-summary: "Please look at the accepted papers at ACM EAAMO'25"
+summary: "On this page you will find the preliminary schedule, including keynotes, plenary sessions, networking events, and community activities."
 date: 2025-07-28
 draft: false
 groupByYear: false
@@ -96,7 +96,7 @@ A complete list of accepted papers can be found in this [page](../accepted_paper
 - Digital Pulse of Development: Constructing Poverty Metrics from Social Media Discourse  
 - Echoes of Eugenics: Tracing the Ideological Persistence of Scientific Racism in Scholarly Discourse (Non-archival)  
 
-**Best Paper Session (75 min)**  
+**Best Paper Session (60 min)**  
 - Optimization Meets Participation: Iterative Zone Generation for School Assignment  
 - Identity-related Speech Suppression in Generative AI Content Moderation  
 
@@ -106,7 +106,7 @@ A complete list of accepted papers can be found in this [page](../accepted_paper
 - Direct Alignment with Heterogeneous Preferences  
 - Prediction, Performativity, and Potential Outcomes: Communicative Rationality in Prediction-Allocation Problems  
 
-**Session 5 (80 min): Algorithmic Fairness & Recourse**  
+**Session 5 (60 min): Algorithmic Fairness & Recourse**  
 - FairWAG: Fairness-aware Weighted Aggregation for Graph Learning in a Federated Setting  
 - Realizing the Promises of Algorithmic Recourse through Reliability, Accessibility, and Fairness Principles  
 - Be Intentional About Fairness! Fairness, Size, and Multiplicity in the Rashomon Set  
@@ -115,7 +115,7 @@ A complete list of accepted papers can be found in this [page](../accepted_paper
 ---
 
 ## Friday
-**Session 6 (80 min): Empathy, Reflexivity, and Inclusive AI**  
+**Session 6 (60 min): Empathy, Reflexivity, and Inclusive AI**  
 - Archaeology of Self: Reflexivity in Data Activism to Address Systemic Injustices  
 - Labeling in Their Shoes: Improving Text Annotation with Cognitive Empathy Priming  
 - Toward Community-Led Evaluations of Text-to-Image AI Representations of Disability, Health, and Accessibility  

@@ -46,7 +46,7 @@ cascade:
 |-------|
 | **[AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights](papers/ai_self-preferencing_in_algorithmic_hiring.pdf)** **(Non-archival)**<br><em>Jiannan Xu, Gujie Li, Jane Yi Jiang</em> |
 | **Epistemic vs. Counterfactual Fairness in Allocation of Resources**<br><em>Hadi Hosseini, Joshua Kavner, Sujoy Sikdar, Rohit Vaish, Lirong Xia</em> |
-| **Echoes of Eugenics: Tracing the Ideological Persistence of Scientific Racism in Scholarly Discourse** **(Non-archival)**<br><em>Nada Hashimi, Sydney Lodge, Cassidy Sugimoto, Thema Monroe-White</em> |
+| **Echoes of Eugenics: Tracing the Ideological Persistence of Scientific Racism in Scholarly Discourse**<br><em>Nada Hashimi, Sydney Lodge, Cassidy Sugimoto, Thema Monroe-White</em> |
 | **Archaeology of Self: Reflexivity in Data Activism to Address Systemic Injustices**<br><em>Raechel Walker, Brady Cruse, Aisha Cora, Kantwon Rogers, Gretchen Brion-Meisels, "Catherine DIgnazio", Cynthia Breazeal</em> |
 | **Toward Community-Led Evaluations of Text-to-Image AI Representations of Disability, Health, and Accessibility**<br><em>Cynthia L. Bennett, Shaun K. Kane, Christina Harrington</em> |
 | **[Labeling in Their Shoes: Improving Text Annotation with Cognitive Empathy Priming](papers/labeling_in_their_shoes.pdf)** **(Non-archival)**<br><em>Sung Hyun Kwon, Jessica Clark, Il-Horn Hann, Jui Ramaprasad</em> |
