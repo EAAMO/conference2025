@@ -35,7 +35,7 @@ cascade:
 | Paper |
 |-------|
 | **[Digital Pulse of Development: Constructing Poverty Metrics from Social Media Discourse](papers/digital_pulse_of_development.pdf)** **(Non-archival)**<br><em>Woojin Jung, Andrew H. Kim, Charles Chear, Vatsal Shah, Ying Hung, Tawfiq Ammari</em> |
-| **[Optimization Meets Participation: Iterative Zone Generation for School Assignment](papers/optimization_meets_participation.pdf)** **(Non-archival)**<br><em>Irene Lo, Katherine L. Mentzer, Mobin YahyazadehJeloudar</em> |
+| **[Optimization Meets Participation: Iterative Zone Generation for School Assignment](papers/optimization_meets_participation.pdf)** **(Non-archival)**<br><em>Mobin YahyazadehJeloudar, Irene Lo, Katherine L. Mentzer</em> |
 | **[Why the Rooney Rule Fumbles: Limitations of Interview-stage Diversity Interventions in Labor Markets](papers/why_the_rooney_rule_fumbles.pdf)** **(Non-archival)**<br><em>Setareh Farajollahzadeh, Soonbong Lee, Vahideh Manshadi, Faidra Monachou</em> |
 | **A community-driven optimization framework for redrawing school attendance boundaries**<br><em>Hongzhao Guan, Paul Riggins, Tyler Simko, Jasmine Mangat, Cassandra Moe, Urooj Haider, Frank Pantano, Effie G. McMillian, Genevieve Siegel-Hawley, Pascal Van Hentenryck, Nabeel Gillani</em> |
 | **[Battery Operations in Electricity Markets: Strategic Behavior and Distortions](papers/battery_operations_in_electricity_markets.pdf)** **(Non-archival)**<br><em>Jerry Anunrojwong, Santiago R. Balseiro, Omar Besbes, Bolun Xu</em> |
