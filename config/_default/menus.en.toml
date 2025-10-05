@@ -34,13 +34,6 @@
    weight = 10
    identifier = 'conference_information'
 
-# [[main]]
-#   name = "Accepted Papers"
-#   pageRef = "accepted_papers"
-#   weight = 11
-#   identifier = 'accepted_papers'
-#   parent = 'conference_information'
-
 [[main]]
    name = "Schedule"
    pageRef = "schedule"
@@ -56,9 +49,16 @@
    parent = 'conference_information'
 
 [[main]]
+   name = "Accepted Papers"
+   pageRef = "accepted_papers"
+   weight = 13
+   identifier = 'accepted_papers'
+   parent = 'conference_information'
+
+[[main]]
    name = "Community and Social Events"
    pageRef = "community_events"
-   weight = 13
+   weight = 14
    identifier = 'community_events'
    parent = 'conference_information'
 
