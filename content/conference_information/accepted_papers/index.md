@@ -22,7 +22,7 @@ cascade:
 | **[The Backfiring Effect of Weak AI Safety Regulation](papers/the_backfiring_effect_of_weak_ai_safety_regulation.pdf)** **(Non-archival)**<br><em>Benjamin Laufer, Jon Kleinberg, Hoda Heidari</em> |
 | **Realizing the Promises of Algorithmic Recourse through Reliability, Accessibility, and Fairness Principles**<br><em>Kate Boxer, Daniel B. Neill</em> |
 | **[The Hidden Cost of Waiting for Accurate Predictions](papers/the_hidden_cost_of_waiting_for_accurate_predictions.pdf)** **(Non-archival)**<br><em>Ali Shirali, Ariel D. Procaccia, Rediet Abebe</em> |
-| **[Africa Health Check: Probing Cultural Bias in Medical LLMs**](papers/africa_health_check.pdf) **(Non-archival)**<br><em>Charles Nimo, Irfan Essa, Michael Best</em> |
+| **[Africa Health Check: Probing Cultural Bias in Medical LLMs](papers/africa_health_check.pdf)** **(Non-archival)**<br><em>Charles Nimo, Irfan Essa, Michael Best</em> |
 | **Challenging the Validity of Personality Tests for Large Language Models**<br><em>Tom Sühr, Florian E. Dorner, Samira Samadi, Augustin Kelava</em> |
 | **[The Feedback Loop of Statistical Discrimination](papers/the_feedback_loop_of_statistical_discrimination.pdf)** **(Non-archival)**<br><em>Jackie Baek, Ali Makhdoumi</em> |
 | **[Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising](papers/discretion_in_the_loop.pdf)** **(Non-archival)**<br><em>Kara Schechtman, Benjamin Brandon, Jenise Stafford, Hannah Li, Lydia T. Liu</em> |
