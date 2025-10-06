@@ -96,7 +96,7 @@ We welcome work from academics and practitioners across diverse disciplines and 
     </td>
     <td style="vertical-align:top;width:50%;">
       <img src="weber_ingmar.jpg" alt="Photo of Ingmar Weber" style="width:100%;max-width:280px;border-radius:12px;" />
-      <div><strong>Ingmar Weber</strong> — Saarbrücken University (Saarland University)</div>
+      <div><strong>Ingmar Weber</strong> — Saarland University</div>
       <div><a href="https://ingmarweber.de/" target="_blank" rel="noopener">Website</a></div>
     </td>
   </tr>
@@ -139,7 +139,7 @@ We welcome work from academics and practitioners across diverse disciplines and 
 
 - 10:30–12:00 — Paper Presentations (Topic 1, day 3)  
 - 12:00–14:30 — Lunch Break and City Walk  
-- 14:30–15:30 — Keynote Lecture: Ingmar Weber (Alexander von Humboldt Professor in AI, Saarland University)  
+- 14:30–15:30 — Keynote Lecture: Ingmar Weber (Saarland University)  
 - 15:30–17:00 — Paper Presentations (Topic 2, day 3)  
 - 17:30–19:00 — Conference Social 
 - 19:00–20:30 — Dinner -->
