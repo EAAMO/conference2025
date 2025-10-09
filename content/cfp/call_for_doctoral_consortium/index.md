@@ -17,6 +17,10 @@ The fifth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Opt
 
 - - -
 
+**Information about the poster session:** The poster dimension should be 24 x 36 inches (60.96 x 91.44 cm).
+
+- - -
+
 ## Call for Doctoral Consortium Participation
 
 ACM EAAMO ‘25 will feature a doctoral consortium for students who have interests relevant to the conference. The event will allow students to meet other students in the field, learn about related career paths, have an opportunity to present their work, participate in dedicated skills sessions, and have meetings with faculty mentors. While primarily targeted at PhD students, the doctoral consortium is open as well to undergraduate and masters students. Content will be primarily designed for students in computer science, operations research, and economics programs, but students from all fields are welcome to apply. Depending on funding availability, some travel support may be available. 

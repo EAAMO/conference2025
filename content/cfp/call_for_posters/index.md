@@ -17,6 +17,10 @@ The fifth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Opt
 
 - - -
 
+**Information about the poster session:** The poster dimension should be 24 x 36 inches (60.96 x 91.44 cm).
+
+- - -
+
 ## Call for Posters
 
 We invite submissions for poster presentations. Accepted submissions will be presented at a poster session during the conference. To submit, authors are only required to provide a **title and abstract** via the [submission form at this link](https://docs.google.com/forms/d/e/1FAIpQLScQFE0bglbUAT2STMZ8iVe19VLH8N6GLYIKZ_hAaKnBjru63g/viewform?usp=dialog) (submission of a full paper is optional but encouraged). The review process will focus largely on fit with the mission of EAAMO and likely interest to the EAAMO community.
