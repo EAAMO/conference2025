@@ -29,11 +29,11 @@ We are excited to announce the **Keynote Speakers for ACM EAAMO '25**. Our keyno
 
 {{< keynote_image src="rayid_ghani.png" name="Rayid Ghani" affiliation="Carnegie Mellon University" link="https://www.rayidghani.com/" >}}
 
-Leads CMU’s Data Science and Public Policy Lab and Data Science for Social Good Program, and co-leads the Responsible AI Initiative. His research develops and applies AI and machine learning for public policy and social good, with a focus on fairness, equity, and accountability across domains such as healthcare, education, criminal justice, and public safety.
+Rayid Ghani is a Professor in the [Machine Learning Department](http://ml.cmu.edu/) (within the School of Computer Science) and the [Heinz College of Information Systems and Public Policy](http://heinz.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/). His research develops and applies AI and machine learning for public policy and social good, with a focus on fairness, equity, and accountability across domains such as healthcare, education, criminal justice, and public safety.
 
 {{< keynote_image src="pim_welle.jpg" name="Pim Welle" affiliation="Data Science Lead, Allegheny County Department of Human Services" link="https://www.linkedin.com/in/pdgwelle/" >}}
 
-Leads data science initiatives at Allegheny County DHS, applying AI and analytics to improve social service systems (SNAP, Medicaid, housing, and more). At CMU, serves as Adjunct Professor, teaching graduate courses in Data Science for Public Policy and training future leaders to use data responsibly for social impact.
+Pim Welle serves as Chief Data Scientist at Allegheny County Department of Human Services. He holds an engineering degree from Massachusetts Institute of Technology and a PhD in engineering and public policy from Carnegie Mellon University. His career has focused on developing statistical and machine learning systems for government institutions. Currently, he creates innovative tools within human services to evaluate system effectiveness and direct resources to individuals with the greatest needs. He serves as an Adjunct Professor at CMU, teaching graduate courses in Data Science for Public Policy and training future leaders to use data responsibly for social impact. 
 
 {{< keynote_image src="randall_taylor.jpg" name="Randall Taylor" affiliation="University of Pittsburgh" link="https://www.worldhistory.pitt.edu/people/ant-30" >}}
 
