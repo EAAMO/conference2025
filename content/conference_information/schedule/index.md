@@ -125,4 +125,4 @@ A complete list of accepted papers can be found in this [page](../accepted_paper
 - **[The Backfiring Effect of Weak AI Safety Regulation](papers/the_backfiring_effect_of_weak_ai_safety_regulation.pdf)** **(Non-archival)**<br><em>Benjamin Laufer, Jon Kleinberg, Hoda Heidari</em>
 - **From Incidents to Insights: Patterns of Responsibility following AI Harms**<br><em>Isabel Richards, Claire Benn, Miri Zilka</em>
 - **Policy Design in Long-Run Welfare Dynamics** **(Non-archival)**<br><em>Jiduan Wu, Rediet Abebe, Moritz Hardt, Ana-Andreea Stoica</em>
-- **Anti-Regulatory or Not: How ‘AI Safety’ is Leveraged Against Regulatory Oversight**<br><em>Rui-Jie Yew, Brian Judge</em>
+- **Anti-Regulatory AI: How "AI Safety" is Leveraged Against Regulatory Oversight**<br><em>Rui-Jie Yew, Brian Judge</em>

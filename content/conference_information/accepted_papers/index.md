@@ -59,7 +59,7 @@ cascade:
 |-------|
 | **From Incidents to Insights: Patterns of Responsibility following AI Harms**<br><em>Isabel Richards, Claire Benn, Miri Zilka</em> |
 | **[Prediction, Performativity, and Potential Outcomes: Communicative Rationality in Prediction-Allocation Problems.](papers/prediction_performativity_and_potential_outcomes.pdf)** **(Non-archival)**<br><em>Sebastian Zezulka, Konstantin Genin</em> |
-| **Anti-Regulatory AI**<br><em>Rui-Jie Yew, Brian Judge</em> |
+| **Anti-Regulatory AI: How "AI Safety" is Leveraged Against Regulatory Oversight**<br><em>Rui-Jie Yew, Brian Judge</em> |
 
 ### Theory
 
