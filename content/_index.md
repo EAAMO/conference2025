@@ -53,6 +53,7 @@ description: "ACM conference on Equity and Access in Algorithms, Mechanisms, and
 - - -
 
 ## News:
+- Early bird registration deadline is postponed to October 17!
 - **Information about the poster and DC sessions:** The poster dimension should be 24 x 36 inches (60.96 x 91.44 cm).
 - Preliminary schedule is out! Check out the program [here](conference_information/schedule/). 
 - The registration for ACM EAAMO '25 is now live! Details can be found [here](registration).

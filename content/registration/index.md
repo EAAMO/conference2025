@@ -9,7 +9,7 @@ showTableOfContents: True
 ---
 ## Registration
 
-Registration for the 5th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization is now live! 
+Registration for the 5th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization is now live! Early bird registration deadline is postponed to October 17.
 
 **Important note:** Participants who received a complimentary registration grant will receive a code that will allow registration for free.  **Please wait for that code before registering**. We will not be able to reimburse registration if one registers without this code.
 
@@ -23,7 +23,7 @@ If you have any questions, please contact us at [membership@eaamo.org](mailto:me
 
 The registration fees for *in-person participation* are the following:
 
-| Registration Item                                      | Early Bird (If Registered By: Oct/15/2025) | Regular Rate (If Registered By: Nov/4/2025) | Onsite Rate (If Registered By: Nov/7/2025) |
+| Registration Item                                      | Early Bird (If Registered By: Oct/17/2025) | Regular Rate (If Registered By: Nov/4/2025) | Onsite Rate (If Registered By: Nov/7/2025) |
 |--------------------------------------------------------|:-------------------------------------------:|:----------------------------------------------:|:---------------------------------------------:|
 | ACM Professional Member  | $500                                      | $600                                         | $900                                        |
 | Non-Member               | $600                                      | $700                                         | $1,000                                      |
@@ -38,7 +38,7 @@ Events such as keynote talks and paper presentations will be broadcasted over Zo
 
 The registration fees for *virtual attendance* are the following:
 
-| Registration Item                                      | Early Bird (If Registered By: Oct/15/2025) | Regular Rate (If Registered By: Nov/4/2025) | Onsite Rate (If Registered By: Nov/7/2025) |
+| Registration Item                                      | Early Bird (If Registered By: Oct/17/2025) | Regular Rate (If Registered By: Nov/4/2025) | Onsite Rate (If Registered By: Nov/7/2025) |
 |--------------------------------------------------------|:-------------------------------------------:|:----------------------------------------------:|:---------------------------------------------:|
 | ACM Professional Member - Full Conference    | $150                                       | $200                                          | $250                                         |
 | Non-Member - Full Conference                 | $200                                       | $250                                          | $300                                         |
