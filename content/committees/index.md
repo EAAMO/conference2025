@@ -9,6 +9,8 @@ layout: "simple"
 ## General Chair
 {{< chair_image src="profile_photos/michael_hamilton.jpg" name="Michael L. Hamilton" affiliation="University of Pittsburgh, USA" link="https://mhamilton-pitt.github.io/" >}}
 
+{{< chair_image src="profile_photos/sera_linardi.jpg" name="Sera Linardi" affiliation="University of Pittsburgh, USA" link="https://www.spia.pitt.edu/people/sera-linardi" >}}
+
 ## Program Chairs
 {{< chair_image src="profile_photos/elizabeth_bondi_kelly.jpg" name="Elizabeth Bondi-Kelly" affiliation="University of Michigan, USA" link="https://eecs.engin.umich.edu/people/bondi-kelly-elizabeth/" >}}
 
