@@ -89,15 +89,20 @@ We welcome work from academics and practitioners across diverse disciplines and 
 
 <table>
   <tr>
-    <td style="vertical-align:top;width:50%;">
+    <td style="vertical-align:top;width:33%;">
       <img src="maximikian_kasy.jpeg" alt="Photo of Maximilian Kasy" style="width:100%;max-width:280px;border-radius:12px;" />
       <div><strong>Maximilian (Max) Kasy</strong> — University of Oxford</div>
       <div><a href="https://maxkasy.github.io/home/" target="_blank" rel="noopener">Website</a></div>
     </td>
-    <td style="vertical-align:top;width:50%;">
+    <td style="vertical-align:top;width:33%;">
       <img src="weber_ingmar.jpg" alt="Photo of Ingmar Weber" style="width:100%;max-width:280px;border-radius:12px;" />
       <div><strong>Ingmar Weber</strong> — Saarland University</div>
       <div><a href="https://ingmarweber.de/" target="_blank" rel="noopener">Website</a></div>
+    </td>
+    <td style="vertical-align:top;width:33%;">
+      <img src="lazaro.png" alt="Photo of Aída García Lázaro" style="width:100%;max-width:280px;border-radius:12px;" />
+      <div><strong>Aída García Lázaro</strong> — University of Bath</div>
+      <div><a href="https://researchportal.bath.ac.uk/en/persons/aida-garcia-lazaro" target="_blank" rel="noopener">Website</a></div>
     </td>
   </tr>
 </table>

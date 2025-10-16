@@ -51,7 +51,7 @@ Participation in the London sessions will be free of charge, but places are limi
 | 09:00–12:00 | Walking seminar 2: The Environmental, Social, and Political Impact of AI |
 | 12:30–14:00 | Extended lunch |
 | 14:30–16:30 | In-situ Discussion 2: Decolonisation in AI (British Museum) |
-| 17:00–18:00 | Invited talk 2: A. V. (TBC) |
+| 17:00–18:00 | Invited talk, Aída García Lazaro: AI and digital skills and the graduate job-apocalypse. Are we really there? |
 | 19:00–20:30 | Dinner |
 
 ### About the Walking seminars and In-situ discussions
@@ -71,6 +71,26 @@ A walking seminar that investigates the global consequences of AI technologies, 
 **In-situ Discussion 2: Decolonisation in AI (British Museum)**
 
 An in-situ discussion at the British Museum focusing on decolonisation in AI research and technology deployment. Using the museum’s collections as a springboard, participants will critically engage with historical and contemporary inequalities in AI, data governance, and algorithmic systems, linking abstract concepts to tangible cultural and societal contexts.
+
+- - -
+
+**Dr Aída García Lázaro**
+
+<table>
+  <tr>
+    <td style="vertical-align:top;width:50%;">
+      <img src="lazaro.png" alt="Photo of Aída García Lázaro" style="width:100%;max-width:280px;border-radius:12px;" />
+      <div><strong>Aída García Lázaro</strong> — University of Bath</div>
+      <div><a href="https://researchportal.bath.ac.uk/en/persons/aida-garcia-lazaro" target="_blank" rel="noopener">Website</a></div>
+    </td>
+  </tr>
+</table>
+
+Aida is economist and Research Fellow at the Institute for Policy Research & the Brunel Centre at the University of Bath. She holds a PhD in Economics from the University of York. Her expertise spans economic studies on technological change, innovation, AI and digital skills, and the labour market overall. She was part of the Made Smarter Innovation: Centre for People-led Digitalisation at the University of Bath from 2021 – 2024.
+
+She has advised and consulted on projects funded by the United Nations Environment Programme and the World Bank, and has extensive experience producing research for non-academic audiences, including policymakers, industry partners and international organisations such as the West of England CA, the NDA, the UK energy sector and the United Nations Relief and Works Agency.
+
+- - -
 
 ### Organisers
 - [Rubén Martínez Cárdenas](https://rubenmtzc.netlify.app/)
