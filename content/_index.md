@@ -80,3 +80,19 @@ description: "ACM conference on Equity and Access in Algorithms, Mechanisms, and
 The conference aims to highlight work that advances our understanding of the societal embedding of technology and how techniques from algorithms, optimization, and mechanism design, along with insights from the social sciences and humanistic studies, can help improve equity and access to opportunity for underserved communities. The conference will provide an inter-disciplinary forum for presenting research papers, problem pitches, survey and position papers, new datasets, and software demonstrations towards the goal of bridging research and practice.
 
  - - -
+
+ ## Sponsors
+
+<p>
+<center>
+<img src="sponsors_images/upit_rds1.png" alt="University of Pittsburgh RDS" width="59%"  style="display:inline-block;"/>
+</center>
+<center>
+    <img src="sponsors_images/acm_logo.png" alt="ACM" width="30%" style="display:inline-block;" />
+    <img src="sponsors_images/sigai.png" alt="ACM SIGAI" width="18%" style="display:inline-block;" />
+    <img src="sponsors_images/sigecom.png" alt="ACM SIGECOM" width="30%" style="display:inline-block;" />
+</center>
+<center>
+<img src="sponsors_images/AIJ-cover.png" alt="AI Journal" width="14%" style="display:inline-block;"  />
+</center>
+</p>
