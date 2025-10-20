@@ -53,6 +53,10 @@ Social Media Chairs:
 - [Matthew Franchi](https://mfranchi.net/), Cornell University, USA
 - [Kuheli Sai](https://sites.google.com/view/kuhelisai/), University of Pittsburgh, USA
 
+Faculty Network:
+- [Woojin Jung](https://socialwork.rutgers.edu/woojin-jung), Rutgers University
+- [Faidra Monachou](https://faidramonachou.github.io/), Yale School of Management
+
 Treasurer:
 - Ana-Andreea Stoica, Max Planck Institute for Intelligent Systems, Germany
 
