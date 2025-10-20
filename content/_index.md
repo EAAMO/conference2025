@@ -85,7 +85,7 @@ The conference aims to highlight work that advances our understanding of the soc
 
 <p>
 <center>
-<img src="sponsors_images/upit_rds1.png" alt="University of Pittsburgh RDS" width="59%"  style="display:inline-block;"/>
+<img src="sponsors_images/upit_rds.png" alt="University of Pittsburgh RDS" width="59%"  style="display:inline-block;"/>
 </center>
 <center>
     <img src="sponsors_images/acm_logo.png" alt="ACM" width="30%" style="display:inline-block;" />
