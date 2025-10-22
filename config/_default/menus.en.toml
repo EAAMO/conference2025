@@ -116,6 +116,12 @@
    parent = 'satelitte'
 
 [[main]]
+   name = "Host ACM EAAMO'26"
+   pageRef = "call_for_location"
+   weight = 23
+   identifier = 'call_for_location'
+
+[[main]]
   identifier = "search"
   weight = 99
   [main.params]
