@@ -39,7 +39,7 @@ Participation in the London sessions will be free of charge, but places are limi
 | **Monday, 03 November 2025** |  |
 |--------------------------|--|
 | **Session Topics:** | AI and Higher Education; and Diversification and AI |
-| 09:00–12:00 | Walking seminar 1: AI and Higher Education |
+| 09:00–12:00 | Walking seminar 1, Ruben Martinez-Cardenas: AI and Higher Education |
 | 12:30–14:00 | Extended lunch |
 | 14:30–16:30 | In-situ Discussion 1: Diversification in AI (National Gallery) |
 | 17:00–18:00 | Invited talk: (TBC) |
@@ -48,7 +48,7 @@ Participation in the London sessions will be free of charge, but places are limi
 | **Tuesday, 04 November 2025** |  |
 |---------------------------|--|
 | **Session Topics:** | Environmental, Social, and Political Impact of AI; and Decolonisation and AI |
-| 09:00–12:00 | Walking seminar 2: The Environmental, Social, and Political Impact of AI |
+| 09:00–12:00 | Walking seminar 2, Alegandro Robinson-Cortés: Economic Design for Social Good |
 | 12:30–14:00 | Extended lunch |
 | 14:30–16:30 | In-situ Discussion 2: Decolonisation in AI (British Museum) |
 | 17:00–18:00 | Invited talk, Aída García Lazaro: AI and digital skills and the graduate job-apocalypse. Are we really there? |
