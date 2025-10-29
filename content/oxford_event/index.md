@@ -99,10 +99,22 @@ We welcome work from academics and practitioners across diverse disciplines and 
       <div><strong>Ingmar Weber</strong> — Saarland University</div>
       <div><a href="https://ingmarweber.de/" target="_blank" rel="noopener">Website</a></div>
     </td>
-    <td style="vertical-align:top;width:33%;">
+    <!-- <td style="vertical-align:top;width:33%;">
       <img src="lazaro.png" alt="Photo of Aída García Lázaro" style="width:100%;max-width:280px;border-radius:12px;" />
       <div><strong>Aída García Lázaro</strong> — University of Bath</div>
       <div><a href="https://researchportal.bath.ac.uk/en/persons/aida-garcia-lazaro" target="_blank" rel="noopener">Website</a></div>
+    </td> -->
+  </tr>
+  <tr>
+    <td style="vertical-align:top;width:33%;">
+      <img src="esther_gehrke.jpg" alt="Photo of Esther Gehrke" style="width:100%;max-width:280px;border-radius:12px;" />
+      <div><strong>Esther Gehrke</strong> — Wageningen University</div>
+      <div><a href="https://www.esthergehrke.com/" target="_blank" rel="noopener">Website</a></div>
+    </td>
+    <td style="vertical-align:top;width:33%;">
+      <img src="christian_meyer.webp" alt="Photo of Christian Meyer" style="width:100%;max-width:280px;border-radius:12px;" />
+      <div><strong>Christian Meyer</strong> — University of Oxford</div>
+      <div><a href="https://www.chrmeyer.com/pages/about/" target="_blank" rel="noopener">Website</a></div>
     </td>
   </tr>
 </table>
