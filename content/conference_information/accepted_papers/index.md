@@ -12,6 +12,9 @@ cascade:
   invertPagination: true
   showPagination: true
 ---
+
+[Proceedings of the 5th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization](https://dl.acm.org/doi/proceedings/10.1145/3757887) are now available.
+
 ### AI and Machine Learning
 
 | Paper |
