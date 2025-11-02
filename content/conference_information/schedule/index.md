@@ -44,7 +44,7 @@ Stay tuned for updates as we confirm speakers, chairs, and session details in th
 | 9:30 AM  | Session 3 - Session 3 (75 min): Bias & Representation in AI Systems                                  |
 | 10:45 AM | Coffee break                               |
 | 11:15 AM | Session (Best Paper)                      |
-| 12:30 PM | Lunch & Working Group Tables *(Funding)*   |
+| 12:30 PM | Lunch & Working Group Tables   |
 | 1:45 PM  | WG: Principles & Performance Metrics       |
 | 3:00 PM  | Session 4 - Human-AI Collaboration & Decision-Making                                  |
 | 4:15 PM  | Coffee break                               |
@@ -62,8 +62,8 @@ Stay tuned for updates as we confirm speakers, chairs, and session details in th
 | 10:30 AM| Coffee break                           |
 | 10:45 AM      | Session 6 - Empathy, Reflexivity, and Inclusive AI                              |
 | 12:00 PM      | Session 7 - Societal & Policy Implications of AI                              |
-| 1:00 PM       | Lunch *(Funding)*                      |
-| 1:45 PM       | WG: Performance Metrics Makerspace *(Funding)* |
+| 1:00 PM       | Lunch                      |
+| 1:45 PM       | WG: Performance Metrics Makerspace |
 | 3:00 PM       | Closing remarks                        |
 
 - - -
