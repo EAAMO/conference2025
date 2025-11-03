@@ -33,7 +33,7 @@ Stay tuned for updates as we confirm speakers, chairs, and session details in th
 | 1:45 PM  | Session 2 - AI Applications in Social and Economic Systems                                                            |
 | 3:00 PM  | **Plenary talk**: [Rayid Ghani, Pim Welle, Randall Taylor](../keynote_speakers/) |
 | 4:15 PM  | Coffee break                                                         |
-| 4:30 PM  | Social Impact Careers in 2025: Amin Rahimian (with DC panel)                            |
+| 4:30 PM  | Social Impact Careers in 2025: A Multidisciplinary Panel                            |
 | 6:00 PM  | Poster Session                                                       |
 
 ---
@@ -46,14 +46,14 @@ Stay tuned for updates as we confirm speakers, chairs, and session details in th
 | 9:30 AM  | Session 3 - Session 3 (75 min): Bias & Representation in AI Systems                                  |
 | 10:45 AM | Coffee break                               |
 | 11:15 AM | Session (Best Paper)                      |
-| 12:30 PM | Lunch & Working Group Tables   |
+| 12:30 PM | Lunch and Working Group Tables   |
 | 1:45 PM  | WG: Principles & Performance Metrics I       |
 | 3:00 PM  | Session 4 - Human-AI Collaboration & Decision-Making                                  |
 | 4:15 PM  | Coffee break                               |
 | 4:30 PM  | Session 5 - Algorithmic Fairness & Recourse                                  |
-| 6:00 PM  | [Social Event](../community_events/)                      |
-| 7:00 PM  | Principles & Performance Metrics Synthesis Session @ 3912 Posvar Hall                      |
-| 7:30 PM  | Small Group Dinners                      |
+| 6:00 PM  | [Tour of Carnegie Museum of Pittsburgh](../community_events/)                      |
+| 7:00 PM  | Principles & Performance Metrics : Synthesis Session @ 3912 Posvar Hall                      |
+| 7:30 PM  | Small group dinners                      |
 
 ---
 
@@ -67,7 +67,7 @@ Stay tuned for updates as we confirm speakers, chairs, and session details in th
 | 10:45 AM      | Session 6 - Empathy, Reflexivity, and Inclusive AI                              |
 | 12:00 PM      | Session 7 - Societal & Policy Implications of AI                              |
 | 1:00 PM       | Lunch                      |
-| 1:45 PM       | WG: Performance Metrics Makerspace II |
+| 1:45 PM       | Performance Metrics Makerspace II |
 | 3:00 PM       | Closing remarks                        |
 
 - - -
