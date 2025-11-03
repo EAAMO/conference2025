@@ -41,7 +41,7 @@ Responsible data science frameworks suggest general principles such as fairness,
 ## Social Events
 EAAMO will also be hosting social events as usual.
 
-### Phipps Conservatory and Botanical Gardens
-Founded in 1893 as a gift from philanthropist Henry W. Phipps, [Phipps Conservatory and Botanical Gardens](https://www.phipps.conservatory.org/) was created as a lush sanctuary for Pittsburghers seeking respite from the smoke and steel of the industrial age. Today, it remains a beloved landmark and one of America’s greenest public gardens, showcasing breathtaking plant collections, immersive seasonal displays, and cutting-edge sustainable architecture. More specifically, Phipps Conservatory and Botanical Gardens encompasses 15 acres including a 14-room glasshouse and 23 distinct gardens. As an international leader in environmental innovation, Phipps continues to inspire visitors of all ages with its beauty, educational programs, and commitment to a greener future. 
+### Carnegie Museum Visit
+Nestled in the Oakland-neighborhood of Pittsburgh, the [Carnegie Museums](https://carnegiemuseums.org/) of Pittsburgh encompass a remarkable cultural complex founded in the late 19th century by steel-tycoon and philanthropist Andrew Carnegie.
 
-*This visit to Phipps Conservatory and Botanical Gardens is offered as an optional excursion during conference registration.*
+*This visit to Carnegie Museum is offered as an optional excursion during conference registration.*

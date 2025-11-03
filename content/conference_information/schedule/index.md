@@ -24,6 +24,7 @@ Stay tuned for updates as we confirm speakers, chairs, and session details in th
 ## November 5, 2025
 | Time     | Event                                                                 |
 |----------|----------------------------------------------------------------------|
+| 8:30 AM  | Breakfast                                                   |
 | 9:00 AM  | Conference opening                                                   |
 | 9:30 AM  | **Plenary talk**: [Nyalleng Moorosi](../keynote_speakers/)                                   |
 | 10:45 AM | Coffee break                                                         |
@@ -49,7 +50,7 @@ Stay tuned for updates as we confirm speakers, chairs, and session details in th
 | 3:00 PM  | Session 4 - Human-AI Collaboration & Decision-Making                                  |
 | 4:15 PM  | Coffee break                               |
 | 4:30 PM  | Session 5 - Algorithmic Fairness & Recourse                                  |
-| 6:00 PM  | [Social Event @ Phipps](../community_events/)                      |
+| 6:00 PM  | [Social Event](../community_events/)                      |
 
 ---
 
