@@ -33,7 +33,7 @@ Stay tuned for updates as we confirm speakers, chairs, and session details in th
 | 1:45 PM  | Session 2 - AI Applications in Social and Economic Systems                                                            |
 | 3:00 PM  | **Plenary talk**: [Rayid Ghani, Pim Welle, Randall Taylor](../keynote_speakers/) |
 | 4:15 PM  | Coffee break                                                         |
-| 4:30 PM  | DC Speaker: Amin Rahimian (with DC panel)                            |
+| 4:30 PM  | Social Impact Careers in 2025: Amin Rahimian (with DC panel)                            |
 | 6:00 PM  | Poster Session                                                       |
 
 ---
@@ -41,30 +41,33 @@ Stay tuned for updates as we confirm speakers, chairs, and session details in th
 ## November 6, 2025
 | Time     | Event                                      |
 |----------|--------------------------------------------|
+| 8:00 AM  | EAAMO Global Networking Hour (London - Cape Town - Pittsburgh) |
 | 9:00 AM  | Breakfast and Welcome by [Mike Colaresi](https://www.linkedin.com/in/michael-colaresi-2030116), Vice Provost of Data Science (Pitt)                                    |
 | 9:30 AM  | Session 3 - Session 3 (75 min): Bias & Representation in AI Systems                                  |
 | 10:45 AM | Coffee break                               |
 | 11:15 AM | Session (Best Paper)                      |
 | 12:30 PM | Lunch & Working Group Tables   |
-| 1:45 PM  | WG: Principles & Performance Metrics       |
+| 1:45 PM  | WG: Principles & Performance Metrics I       |
 | 3:00 PM  | Session 4 - Human-AI Collaboration & Decision-Making                                  |
 | 4:15 PM  | Coffee break                               |
 | 4:30 PM  | Session 5 - Algorithmic Fairness & Recourse                                  |
 | 6:00 PM  | [Social Event](../community_events/)                      |
+| 7:00 PM  | Principles & Performance Metrics Synthesis Session @ 3912 Posvar Hall                      |
+| 7:30 PM  | Small Group Dinners                      |
 
 ---
 
 ## November 7, 2025
 | Time          | Event                                  |
 |---------------|----------------------------------------|
-| 8:00 AM       | CapeTown - London EAAMO Meetup / Networking |
+| 8:30 AM       | Guided mindfulness meditation |
 | 9:00 AM       | Breakfast                              |
 | 9:30 AM       | **Plenary talk**: Catherine D’Ignazio  |
-| 10:30 AM| Coffee break                           |
+| 10:30 AM      | Coffee break                           |
 | 10:45 AM      | Session 6 - Empathy, Reflexivity, and Inclusive AI                              |
 | 12:00 PM      | Session 7 - Societal & Policy Implications of AI                              |
 | 1:00 PM       | Lunch                      |
-| 1:45 PM       | WG: Performance Metrics Makerspace |
+| 1:45 PM       | WG: Performance Metrics Makerspace II |
 | 3:00 PM       | Closing remarks                        |
 
 - - -
