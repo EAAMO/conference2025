@@ -29,7 +29,7 @@ Stay tuned for updates as we confirm speakers, chairs, and session details in th
 | 9:30 AM  | **Plenary talk**: [Nyalleng Moorosi](../keynote_speakers/)                                   |
 | 10:45 AM | Coffee break                                                         |
 | 11:15 AM | Session 1 - Resource Allocation, Moderation, and Participation                                                             |
-| 12:30 PM | Doctoral Consortium & Faculty Network Lunch                                           |
+| 12:30 PM | Doctoral Consortium & Faculty Network and Lunch                                           |
 | 1:45 PM  | Session 2 - AI Applications in Social and Economic Systems                                                            |
 | 3:00 PM  | **Plenary talk**: [Rayid Ghani, Pim Welle, Randall Taylor](../keynote_speakers/) |
 | 4:15 PM  | Coffee break                                                         |
@@ -47,7 +47,7 @@ Stay tuned for updates as we confirm speakers, chairs, and session details in th
 | 10:45 AM | Coffee break                               |
 | 11:15 AM | Session (Best Paper)                      |
 | 12:30 PM | Lunch and Working Group Tables   |
-| 1:45 PM  | WG: Principles & Performance Metrics I       |
+| 1:45 PM  | Principles & Performance Metrics Makerspace: Session I       |
 | 3:00 PM  | Session 4 - Human-AI Collaboration & Decision-Making                                  |
 | 4:15 PM  | Coffee break                               |
 | 4:30 PM  | Session 5 - Algorithmic Fairness & Recourse                                  |
@@ -67,7 +67,7 @@ Stay tuned for updates as we confirm speakers, chairs, and session details in th
 | 10:45 AM      | Session 6 - Empathy, Reflexivity, and Inclusive AI                              |
 | 12:00 PM      | Session 7 - Societal & Policy Implications of AI                              |
 | 1:00 PM       | Lunch                      |
-| 1:45 PM       | Performance Metrics Makerspace II |
+| 1:45 PM       | Principles & Performance Metrics Makerspace: Session II |
 | 3:00 PM       | Closing remarks                        |
 
 - - -
