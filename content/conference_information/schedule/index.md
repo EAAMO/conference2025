@@ -62,7 +62,7 @@ Stay tuned for updates as we confirm speakers, chairs, and session details in th
 |---------------|----------------------------------------|
 | 8:30 AM       | Guided mindfulness meditation |
 | 9:00 AM       | Breakfast                              |
-| 9:30 AM       | **Plenary talk**: Catherine D’Ignazio  |
+| 9:30 AM       | **Plenary talk**: [Catherine D’Ignazio](../keynote_speakers/)  |
 | 10:30 AM      | Coffee break                           |
 | 10:45 AM      | Session 6 - Empathy, Reflexivity, and Inclusive AI                              |
 | 12:00 PM      | Session 7 - Societal & Policy Implications of AI                              |
