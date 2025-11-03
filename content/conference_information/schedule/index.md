@@ -29,7 +29,7 @@ Stay tuned for updates as we confirm speakers, chairs, and session details in th
 | 9:30 AM  | **Plenary talk**: [Nyalleng Moorosi](../keynote_speakers/)                                   |
 | 10:45 AM | Coffee break                                                         |
 | 11:15 AM | Session 1 - Resource Allocation, Moderation, and Participation                                                             |
-| 12:30 PM | Doctoral Consortium & Faculty Network and Lunch                                           |
+| 12:30 PM | Lunch and Doctoral Consortium & Faculty Network                                           |
 | 1:45 PM  | Session 2 - AI Applications in Social and Economic Systems                                                            |
 | 3:00 PM  | **Plenary talk**: [Rayid Ghani, Pim Welle, Randall Taylor](../keynote_speakers/) |
 | 4:15 PM  | Coffee break                                                         |
