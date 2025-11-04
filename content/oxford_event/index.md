@@ -121,9 +121,9 @@ We welcome work from academics and practitioners across diverse disciplines and 
 
 ---
 
-## Preliminary schedule
+## Schedule
 
-<a href="EAAMO'25 _ Oxford Local (Preliminary Schedule).pdf" target="_blank" rel="noopener" style="display:inline-block;margin-top:6px;padding:10px 16px;border-radius:8px;border:1px solid #111;text-decoration:none;font-weight:600;">Download the preliminary schedule</a>
+<a href="EAAMO Oxford Schedule.pdf" target="_blank" rel="noopener" style="display:inline-block;margin-top:6px;padding:10px 16px;border-radius:8px;border:1px solid #111;text-decoration:none;font-weight:600;">Download the schedule</a>
 
 <!-- ### Day 1 — Wednesday, 05 November 2025
 **Keynote Speaker:** To be confirmed  
