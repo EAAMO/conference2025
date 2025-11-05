@@ -33,7 +33,7 @@ EAAMO'25 is will take place in-person, in **Pittsburgh, PA, USA**. More about th
 
 - - -
 
-Events such as keynote talks and paper presentations will be broadcasted over Zoom for participants who register for the attendance to the conference virtually. To attend virtually, please register for the virtual-only option and you will receive a Zoom link to attend online.
+Events such as keynote talks and paper presentations will be broadcasted over Zoom for participants who register for the attendance to the conference virtually. To attend virtually, please register for the virtual-only option and you will receive a Zoom link to attend online. If you can't find the Zoom link in your email, reach out to bridges@eaamo.org.
 
 
 The registration fees for *virtual attendance* are the following:

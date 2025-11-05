@@ -53,12 +53,14 @@ description: "ACM conference on Equity and Access in Algorithms, Mechanisms, and
 - - -
 
 ## News:
+- Virtual participants will receive Zoom link on their email. If you can't find it, contact us on bridges@eaamo.org.
 - [Proceedings of the 5th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization](https://dl.acm.org/doi/proceedings/10.1145/3757887) are now available.
-- Early bird registration deadline is postponed to October 17!
+- Check out the program [here](conference_information/schedule/). 
 - **Information about the poster and DC sessions:** The poster dimension should be 24 x 36 inches (60.96 x 91.44 cm).
-- Preliminary schedule is out! Check out the program [here](conference_information/schedule/). 
 - The registration for ACM EAAMO '25 is now live! Details can be found [here](registration).
-- Download our [one-pager](EAAMO'25_Conference_Flyer.pdf) to quickly learn about the conference and help spread the word!
+
+<!-- - Early bird registration deadline is postponed to October 17! -->
+<!-- - Download our [one-pager](EAAMO'25_Conference_Flyer.pdf) to quickly learn about the conference and help spread the word! -->
 
 <!-- - Now Open: [Call for Posters](cfp/call_for_posters/) for ACM EAAMO '25 - **Submit by August 5**!
 - Apply Now: [Doctoral Consortium](cfp/call_for_doctoral_consortium/) at ACM EAAMO '25 - Connect, Present, and Learn with Peers and Mentors in Equity and Algorithmic Research. **Deadline July 25, 2025**. 
