@@ -42,17 +42,17 @@ Stay tuned for updates as we confirm speakers, chairs, and session details in th
 | Time     | Event                                      |
 |----------|--------------------------------------------|
 | 8:00 AM  | EAAMO Global Networking Hour (London - Cape Town - Pittsburgh) |
-| 9:00 AM  | Breakfast and Welcome by [Mike Colaresi](https://www.linkedin.com/in/michael-colaresi-2030116), Associate Vice Provost (Pitt)                                    |
+| 9:00 AM  | Breakfast and Welcome by [Mike Colaresi](https://www.linkedin.com/in/michael-colaresi-2030116), Associate Vice Provost (Pitt) and Sera Linardi                                   |
 | 9:30 AM  | Session 3 - Bias & Representation in AI Systems                                  |
 | 10:45 AM | Coffee break                               |
 | 11:15 AM | Session (Best Paper)                      |
 | 12:30 PM | Lunch and Working Group Tables   |
-| 1:45 PM  | Principles & Performance Metrics Makerspace: Session I       |
+| 1:45 PM  | Principles & Performance Metrics Makerspace: Session I - [link](https://forms.gle/NziKRR9J5pGeys8Z7)       |
 | 3:00 PM  | Session 4 - Human-AI Collaboration & Decision-Making                                  |
 | 4:15 PM  | Coffee break                               |
 | 4:30 PM  | Session 5 - Algorithmic Fairness & Recourse                                  |
 | 6:00 PM  | [Tour of Carnegie Museum of Pittsburgh](../community_events/)                      |
-| 7:00 PM  | Principles & Performance Metrics : Synthesis Session @ 3912 Posvar Hall                      |
+| 7:00 PM  | Principles & Performance Metrics : Synthesis Session @ 3912 Posvar Hall - [link](https://forms.gle/NziKRR9J5pGeys8Z7)                      |
 | 7:30 PM  | Small group dinners                      |
 
 ---
@@ -67,7 +67,7 @@ Stay tuned for updates as we confirm speakers, chairs, and session details in th
 | 10:45 AM      | Session 6 - Empathy, Reflexivity, and Inclusive AI                              |
 | 12:00 PM      | Session 7 - Societal & Policy Implications of AI                              |
 | 1:00 PM       | Lunch                      |
-| 1:45 PM       | Principles & Performance Metrics Makerspace: Session II |
+| 1:45 PM       | Principles & Performance Metrics Makerspace: Session II - [link](https://forms.gle/NziKRR9J5pGeys8Z7) |
 | 3:00 PM       | Closing remarks                        |
 
 - - -
