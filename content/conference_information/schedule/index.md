@@ -42,7 +42,7 @@ Stay tuned for updates as we confirm speakers, chairs, and session details in th
 | Time     | Event                                      |
 |----------|--------------------------------------------|
 | 8:00 AM  | EAAMO Global Networking Hour (London - Cape Town - Pittsburgh) |
-| 9:00 AM  | Breakfast and Welcome by [Mike Colaresi](https://www.linkedin.com/in/michael-colaresi-2030116), Associate Vice Provost (Pitt) and Sera Linardi                                   |
+| 9:00 AM  | Breakfast and Welcome by [Mike Colaresi](https://www.linkedin.com/in/michael-colaresi-2030116), Associate Vice Provost (Pitt)                                   |
 | 9:30 AM  | Session 3 - Bias & Representation in AI Systems                                  |
 | 10:45 AM | Coffee break                               |
 | 11:15 AM | Session (Best Paper)                      |
