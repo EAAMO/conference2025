@@ -167,6 +167,7 @@ We welcome work from academics and practitioners across diverse disciplines and 
 - [Edwin Lock](https://edwinlock.com)
 - [Michelle González Amador](https://www.m-gonzalezamador.com/)
 - [Rubén Martínez Cárdenas](https://rubenmtzc.netlify.app/)
+- [Francisco Marmolejo Cossio](https://www.fmarmolejo.com/)
 
 ---
 
